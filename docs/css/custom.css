@@ -1,0 +1,43 @@
+/* Custom styles for DSAA3073 website */
+
+:root {
+    --primary-color: #3f51b5;
+    --accent-color: #5c6bc0;
+}
+
+/* Increase content width */
+.md-grid {
+    max-width: 80rem;
+}
+
+.md-main__inner {
+    max-width: 80rem;
+}
+
+/* Make PDF links more prominent */
+.md-typeset a[href$=".pdf"] {
+    font-weight: 500;
+    color: var(--accent-color);
+}
+
+.md-typeset a[href$=".pdf"]:hover {
+    text-decoration: underline;
+}
+
+/* Table styling */
+.md-typeset table:not([class]) {
+    font-size: 0.9rem;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.md-typeset table:not([class]) th {
+    background-color: rgba(63, 81, 181, 0.1);
+    font-weight: 600;
+}
+
+/* Responsive tables */
+@media screen and (max-width: 768px) {
+    .md-typeset table {
+        font-size: 0.8rem;
+    }
+}

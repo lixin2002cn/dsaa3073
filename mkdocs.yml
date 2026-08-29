@@ -1,0 +1,79 @@
+site_name: DSAA3073 - Theories in Data Science
+site_description: Fall 2026 Course Materials
+site_author: HKUST-GZ
+site_url: https://lixin2002cn.github.io/dsaa3073/
+
+theme:
+  name: material
+  favicon: assets/images/favicon.png
+  icon:
+    logo: material/book-open-page-variant
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - toc.follow
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: en
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: false
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_css:
+  - css/custom.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/lixin2002cn/dsaa3073
+
+nav:
+  - Home: index.md
+  - Logistics: logistics.md
+  - Schedule: schedule.md
+  - Assignment: assignment.md
+  - Materials:
+      - Overview: materials/index.md
+      - Week 1: materials/week1.md
+      - Week 2: materials/week2.md
+      - Week 3: materials/week3.md
+      - Week 4: materials/week4.md
+      - Week 5: materials/week5.md
+      - Week 6: materials/week6.md
+      - Week 7: materials/week7.md
+      - Week 8: materials/week8.md
+      - Week 9: materials/week9.md
+      - Week 10: materials/week10.md
+      - Week 11: materials/week11.md
+      - Week 12: materials/week12.md
+      - Week 13: materials/week13.md
+
+copyright: Copyright &copy; 2026 HKUST-GZ
