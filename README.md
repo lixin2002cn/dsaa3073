@@ -29,8 +29,7 @@ tracked. Edit the Markdown files in `docs/`, not generated HTML.
 - Week 1-10 Learning Sheets are included as downloadable PDFs.
 - Week 1-13 Validation Sheets are placeholders until the current-semester
   files are released.
-- Week 1-10 Cheatsheets are placeholders until the current-semester files are
-  produced.
+- Week 1-10 Cheatsheets are included as downloadable PDFs.
 - Week 1-13 Open Problems are placeholders with topics marked TBD.
 - Five equally weighted Part Tests contribute 70% of the course grade. Each
   Test is 130 marks, lasts 30 minutes, and is held in the class following

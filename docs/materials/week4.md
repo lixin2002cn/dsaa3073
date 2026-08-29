@@ -15,7 +15,7 @@
 
 - [📄 Week 4 Learning Sheet](../pdfs/learning-sheets/Week4_Learning_Sheet.pdf)
 - 📝 Week 4 Validation Sheet — **TBD**
-- 📋 Week 4 Cheatsheet — **TBD**
+- [📋 Week 4 Cheatsheet](../pdfs/cheatsheets/Week4_Cheatsheet.pdf)
 - 🔎 Week 4 Open Problems — **TBD**
 
 !!! note "Next class: Part 2 Test"

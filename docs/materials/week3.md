@@ -14,7 +14,7 @@
 
 - [📄 Week 3 Learning Sheet](../pdfs/learning-sheets/Week3_Learning_Sheet.pdf)
 - 📝 Week 3 Validation Sheet — **TBD**
-- 📋 Week 3 Cheatsheet — **TBD**
+- [📋 Week 3 Cheatsheet](../pdfs/cheatsheets/Week3_Cheatsheet.pdf)
 - 🔎 Week 3 Open Problems — **TBD**
 - 🧪 Part 1 Test — 130 marks, 30 minutes, 14% of the course grade
 

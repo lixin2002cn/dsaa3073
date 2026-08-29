@@ -14,7 +14,7 @@
 
 - [📄 Week 5 Learning Sheet](../pdfs/learning-sheets/Week5_Learning_Sheet.pdf)
 - 📝 Week 5 Validation Sheet — **TBD**
-- 📋 Week 5 Cheatsheet — **TBD**
+- [📋 Week 5 Cheatsheet](../pdfs/cheatsheets/Week5_Cheatsheet.pdf)
 - 🔎 Week 5 Open Problems — **TBD**
 - 🧪 Part 2 Test — 130 marks, 30 minutes, 14% of the course grade
 

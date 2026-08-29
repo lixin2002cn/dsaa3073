@@ -14,7 +14,7 @@
 
 - [📄 Week 7 Learning Sheet](../pdfs/learning-sheets/Week7_Learning_Sheet.pdf)
 - 📝 Week 7 Validation Sheet — **TBD**
-- 📋 Week 7 Cheatsheet — **TBD**
+- [📋 Week 7 Cheatsheet](../pdfs/cheatsheets/Week7_Cheatsheet.pdf)
 - 🔎 Week 7 Open Problems — **TBD**
 - 🧪 Part 3 Test — 130 marks, 30 minutes, 14% of the course grade
 

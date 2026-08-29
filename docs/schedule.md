@@ -21,17 +21,17 @@ are shown as **TBD**.
 
 | Week | Lecture Date | Part | Topics | Learning Sheet | Validation | Cheatsheet | Open Problems |
 |---|---|---|---|---|---|---|---|
-| **[Week 1](materials/week1.md)** | Sep 7 | Part 1 | Course introduction; probability, concentration, norms, Hilbert spaces | [📄 PDF](pdfs/learning-sheets/Week1_Learning_Sheet.pdf) | TBD | TBD | TBD |
-| **[Week 2](materials/week2.md)** | Sep 14 | Part 1 | Convexity, optimization, computational complexity | [📄 PDF](pdfs/learning-sheets/Week2_Learning_Sheet.pdf) | TBD | TBD | TBD |
-| **[Week 3](materials/week3.md)** | Sep 21 | Part 2 | Risk, ERM, PAC learning, finite classes, VC dimension | [📄 PDF](pdfs/learning-sheets/Week3_Learning_Sheet.pdf) | TBD | TBD | TBD |
-| **[Week 4](materials/week4.md)** | Sep 28 | Part 2 | Agnostic PAC, uniform convergence, Rademacher complexity | [📄 PDF](pdfs/learning-sheets/Week4_Learning_Sheet.pdf) | TBD | TBD | TBD |
+| **[Week 1](materials/week1.md)** | Sep 7 | Part 1 | Course introduction; probability, concentration, norms, Hilbert spaces | [📄 PDF](pdfs/learning-sheets/Week1_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week1_Cheatsheet.pdf) | TBD |
+| **[Week 2](materials/week2.md)** | Sep 14 | Part 1 | Convexity, optimization, computational complexity | [📄 PDF](pdfs/learning-sheets/Week2_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week2_Cheatsheet.pdf) | TBD |
+| **[Week 3](materials/week3.md)** | Sep 21 | Part 2 | Risk, ERM, PAC learning, finite classes, VC dimension | [📄 PDF](pdfs/learning-sheets/Week3_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week3_Cheatsheet.pdf) | TBD |
+| **[Week 4](materials/week4.md)** | Sep 28 | Part 2 | Agnostic PAC, uniform convergence, Rademacher complexity | [📄 PDF](pdfs/learning-sheets/Week4_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week4_Cheatsheet.pdf) | TBD |
 | — | Oct 5 | — | **No lecture — National Day holiday** | — | — | — | — |
-| **[Week 5](materials/week5.md)** | Oct 12 | Part 3 | Bias–variance, ill-posed problems, Tikhonov, ridge | [📄 PDF](pdfs/learning-sheets/Week5_Learning_Sheet.pdf) | TBD | TBD | TBD |
-| **[Week 6](materials/week6.md)** | Oct 19 | Part 3 | Cross-validation, LOOCV, PRESS, AIC, BIC | [📄 PDF](pdfs/learning-sheets/Week6_Learning_Sheet.pdf) | TBD | TBD | TBD |
-| **[Week 7](materials/week7.md)** | Oct 26 | Part 4 | Weak learning, AdaBoost, training-error guarantees | [📄 PDF](pdfs/learning-sheets/Week7_Learning_Sheet.pdf) | TBD | TBD | TBD |
-| **[Week 8](materials/week8.md)** | Nov 2 | Part 4 | Margins, exponential loss, coordinate descent | [📄 PDF](pdfs/learning-sheets/Week8_Learning_Sheet.pdf) | TBD | TBD | TBD |
-| **[Week 9](materials/week9.md)** | Nov 9 | Part 5 | Expert advice, Weighted Majority, MWU | [📄 PDF](pdfs/learning-sheets/Week9_Learning_Sheet.pdf) | TBD | TBD | TBD |
-| **[Week 10](materials/week10.md)** | Nov 16 | Part 5 | OCO, OGD, FTL, FTRL, online-to-batch | [📄 PDF](pdfs/learning-sheets/Week10_Learning_Sheet.pdf) | TBD | TBD | TBD |
+| **[Week 5](materials/week5.md)** | Oct 12 | Part 3 | Bias–variance, ill-posed problems, Tikhonov, ridge | [📄 PDF](pdfs/learning-sheets/Week5_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week5_Cheatsheet.pdf) | TBD |
+| **[Week 6](materials/week6.md)** | Oct 19 | Part 3 | Cross-validation, LOOCV, PRESS, AIC, BIC | [📄 PDF](pdfs/learning-sheets/Week6_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week6_Cheatsheet.pdf) | TBD |
+| **[Week 7](materials/week7.md)** | Oct 26 | Part 4 | Weak learning, AdaBoost, training-error guarantees | [📄 PDF](pdfs/learning-sheets/Week7_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week7_Cheatsheet.pdf) | TBD |
+| **[Week 8](materials/week8.md)** | Nov 2 | Part 4 | Margins, exponential loss, coordinate descent | [📄 PDF](pdfs/learning-sheets/Week8_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week8_Cheatsheet.pdf) | TBD |
+| **[Week 9](materials/week9.md)** | Nov 9 | Part 5 | Expert advice, Weighted Majority, MWU | [📄 PDF](pdfs/learning-sheets/Week9_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week9_Cheatsheet.pdf) | TBD |
+| **[Week 10](materials/week10.md)** | Nov 16 | Part 5 | OCO, OGD, FTL, FTRL, online-to-batch | [📄 PDF](pdfs/learning-sheets/Week10_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week10_Cheatsheet.pdf) | TBD |
 | **[Week 11](materials/week11.md)** | Nov 23 | Presentations | Student Presentations I — topic TBD | Presentation brief: TBD | TBD | — | TBD |
 | **[Week 12](materials/week12.md)** | Nov 30 | Presentations | Student Presentations II — topic TBD | Presentation brief: TBD | TBD | — | TBD |
 | **[Week 13](materials/week13.md)** | Dec 7 | Presentations | Student Presentations III — topic TBD | Presentation brief: TBD | TBD | — | TBD |

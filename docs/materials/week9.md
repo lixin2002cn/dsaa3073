@@ -14,7 +14,7 @@
 
 - [📄 Week 9 Learning Sheet](../pdfs/learning-sheets/Week9_Learning_Sheet.pdf)
 - 📝 Week 9 Validation Sheet — **TBD**
-- 📋 Week 9 Cheatsheet — **TBD**
+- [📋 Week 9 Cheatsheet](../pdfs/cheatsheets/Week9_Cheatsheet.pdf)
 - 🔎 Week 9 Open Problems — **TBD**
 - 🧪 Part 4 Test — 130 marks, 30 minutes, 14% of the course grade
 

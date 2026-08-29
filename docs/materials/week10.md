@@ -15,7 +15,7 @@
 
 - [📄 Week 10 Learning Sheet](../pdfs/learning-sheets/Week10_Learning_Sheet.pdf)
 - 📝 Week 10 Validation Sheet — **TBD**
-- 📋 Week 10 Cheatsheet — **TBD**
+- [📋 Week 10 Cheatsheet](../pdfs/cheatsheets/Week10_Cheatsheet.pdf)
 - 🔎 Week 10 Open Problems — **TBD**
 
 !!! note "Next class: Part 5 Test"

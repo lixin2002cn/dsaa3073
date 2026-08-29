@@ -14,7 +14,7 @@
 
 - [📄 Week 6 Learning Sheet](../pdfs/learning-sheets/Week6_Learning_Sheet.pdf)
 - 📝 Week 6 Validation Sheet — **TBD**
-- 📋 Week 6 Cheatsheet — **TBD**
+- [📋 Week 6 Cheatsheet](../pdfs/cheatsheets/Week6_Cheatsheet.pdf)
 - 🔎 Week 6 Open Problems — **TBD**
 
 !!! note "Next class: Part 3 Test"

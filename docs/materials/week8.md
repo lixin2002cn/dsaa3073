@@ -14,7 +14,7 @@
 
 - [📄 Week 8 Learning Sheet](../pdfs/learning-sheets/Week8_Learning_Sheet.pdf)
 - 📝 Week 8 Validation Sheet — **TBD**
-- 📋 Week 8 Cheatsheet — **TBD**
+- [📋 Week 8 Cheatsheet](../pdfs/cheatsheets/Week8_Cheatsheet.pdf)
 - 🔎 Week 8 Open Problems — **TBD**
 
 !!! note "Next class: Part 4 Test"
