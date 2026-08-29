@@ -21,17 +21,17 @@ are shown as **TBD**.
 
 | Week | Lecture Date | Part | Topics | Learning Sheet | Validation | Cheatsheet | Open Problems |
 |---|---|---|---|---|---|---|---|
-| **[Week 1](materials/week1.md)** | Sep 7 | Part 1 | Course introduction; probability, concentration, norms, Hilbert spaces | [📄 PDF](pdfs/learning-sheets/Week1_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week1_Cheatsheet.pdf) | TBD |
-| **[Week 2](materials/week2.md)** | Sep 14 | Part 1 | Convexity, optimization, computational complexity | [📄 PDF](pdfs/learning-sheets/Week2_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week2_Cheatsheet.pdf) | TBD |
-| **[Week 3](materials/week3.md)** | Sep 21 | Part 2 | Risk, ERM, PAC learning, finite classes, VC dimension | [📄 PDF](pdfs/learning-sheets/Week3_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week3_Cheatsheet.pdf) | TBD |
-| **[Week 4](materials/week4.md)** | Sep 28 | Part 2 | Agnostic PAC, uniform convergence, Rademacher complexity | [📄 PDF](pdfs/learning-sheets/Week4_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week4_Cheatsheet.pdf) | TBD |
+| **[Week 1](materials/week1.md)** | Sep 7 | Part 1 | Course introduction; probability, concentration, norms, Hilbert spaces | [📄 PDF](pdfs/learning-sheets/Week1_Learning_Sheet.pdf) | [📝 PDF](pdfs/validation-sheets/Week1_Validation_Sheet.pdf) | [📋 PDF](pdfs/cheatsheets/Week1_Cheatsheet.pdf) | TBD |
+| **[Week 2](materials/week2.md)** | Sep 14 | Part 1 | Convexity, optimization, computational complexity | [📄 PDF](pdfs/learning-sheets/Week2_Learning_Sheet.pdf) | [📝 PDF](pdfs/validation-sheets/Week2_Validation_Sheet.pdf) | [📋 PDF](pdfs/cheatsheets/Week2_Cheatsheet.pdf) | TBD |
+| **[Week 3](materials/week3.md)** | Sep 21 | Part 2 | Risk, ERM, PAC learning, finite classes, VC dimension | [📄 PDF](pdfs/learning-sheets/Week3_Learning_Sheet.pdf) | [📝 PDF](pdfs/validation-sheets/Week3_Validation_Sheet.pdf) | [📋 PDF](pdfs/cheatsheets/Week3_Cheatsheet.pdf) | TBD |
+| **[Week 4](materials/week4.md)** | Sep 28 | Part 2 | Agnostic PAC, uniform convergence, Rademacher complexity | [📄 PDF](pdfs/learning-sheets/Week4_Learning_Sheet.pdf) | [📝 PDF](pdfs/validation-sheets/Week4_Validation_Sheet.pdf) | [📋 PDF](pdfs/cheatsheets/Week4_Cheatsheet.pdf) | TBD |
 | — | Oct 5 | — | **No lecture — National Day holiday** | — | — | — | — |
-| **[Week 5](materials/week5.md)** | Oct 12 | Part 3 | Bias–variance, ill-posed problems, Tikhonov, ridge | [📄 PDF](pdfs/learning-sheets/Week5_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week5_Cheatsheet.pdf) | TBD |
-| **[Week 6](materials/week6.md)** | Oct 19 | Part 3 | Cross-validation, LOOCV, PRESS, AIC, BIC | [📄 PDF](pdfs/learning-sheets/Week6_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week6_Cheatsheet.pdf) | TBD |
-| **[Week 7](materials/week7.md)** | Oct 26 | Part 4 | Weak learning, AdaBoost, training-error guarantees | [📄 PDF](pdfs/learning-sheets/Week7_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week7_Cheatsheet.pdf) | TBD |
-| **[Week 8](materials/week8.md)** | Nov 2 | Part 4 | Margins, exponential loss, coordinate descent | [📄 PDF](pdfs/learning-sheets/Week8_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week8_Cheatsheet.pdf) | TBD |
-| **[Week 9](materials/week9.md)** | Nov 9 | Part 5 | Expert advice, Weighted Majority, MWU | [📄 PDF](pdfs/learning-sheets/Week9_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week9_Cheatsheet.pdf) | TBD |
-| **[Week 10](materials/week10.md)** | Nov 16 | Part 5 | OCO, OGD, FTL, FTRL, online-to-batch | [📄 PDF](pdfs/learning-sheets/Week10_Learning_Sheet.pdf) | TBD | [📋 PDF](pdfs/cheatsheets/Week10_Cheatsheet.pdf) | TBD |
+| **[Week 5](materials/week5.md)** | Oct 12 | Part 3 | Bias–variance, ill-posed problems, Tikhonov, ridge | [📄 PDF](pdfs/learning-sheets/Week5_Learning_Sheet.pdf) | [📝 PDF](pdfs/validation-sheets/Week5_Validation_Sheet.pdf) | [📋 PDF](pdfs/cheatsheets/Week5_Cheatsheet.pdf) | TBD |
+| **[Week 6](materials/week6.md)** | Oct 19 | Part 3 | Cross-validation, LOOCV, PRESS, AIC, BIC | [📄 PDF](pdfs/learning-sheets/Week6_Learning_Sheet.pdf) | [📝 PDF](pdfs/validation-sheets/Week6_Validation_Sheet.pdf) | [📋 PDF](pdfs/cheatsheets/Week6_Cheatsheet.pdf) | TBD |
+| **[Week 7](materials/week7.md)** | Oct 26 | Part 4 | Weak learning, AdaBoost, training-error guarantees | [📄 PDF](pdfs/learning-sheets/Week7_Learning_Sheet.pdf) | [📝 PDF](pdfs/validation-sheets/Week7_Validation_Sheet.pdf) | [📋 PDF](pdfs/cheatsheets/Week7_Cheatsheet.pdf) | TBD |
+| **[Week 8](materials/week8.md)** | Nov 2 | Part 4 | Margins, exponential loss, coordinate descent | [📄 PDF](pdfs/learning-sheets/Week8_Learning_Sheet.pdf) | [📝 PDF](pdfs/validation-sheets/Week8_Validation_Sheet.pdf) | [📋 PDF](pdfs/cheatsheets/Week8_Cheatsheet.pdf) | TBD |
+| **[Week 9](materials/week9.md)** | Nov 9 | Part 5 | Expert advice, Weighted Majority, MWU | [📄 PDF](pdfs/learning-sheets/Week9_Learning_Sheet.pdf) | [📝 PDF](pdfs/validation-sheets/Week9_Validation_Sheet.pdf) | [📋 PDF](pdfs/cheatsheets/Week9_Cheatsheet.pdf) | TBD |
+| **[Week 10](materials/week10.md)** | Nov 16 | Part 5 | OCO, OGD, FTL, FTRL, online-to-batch | [📄 PDF](pdfs/learning-sheets/Week10_Learning_Sheet.pdf) | [📝 PDF](pdfs/validation-sheets/Week10_Validation_Sheet.pdf) | [📋 PDF](pdfs/cheatsheets/Week10_Cheatsheet.pdf) | TBD |
 | **[Week 11](materials/week11.md)** | Nov 23 | Presentations | Student Presentations I — topic TBD | Presentation brief: TBD | TBD | — | TBD |
 | **[Week 12](materials/week12.md)** | Nov 30 | Presentations | Student Presentations II — topic TBD | Presentation brief: TBD | TBD | — | TBD |
 | **[Week 13](materials/week13.md)** | Dec 7 | Presentations | Student Presentations III — topic TBD | Presentation brief: TBD | TBD | — | TBD |
@@ -40,9 +40,10 @@ are shown as **TBD**.
 
 ## Part Test Schedule
 
-Each Part Test is worth **130 marks**, lasts **30 minutes**, and contributes
+Each Part Test is worth **120 marks**, lasts **30 minutes**, and contributes
 **14%** of the course grade. It takes place in the next class after the
-corresponding Part has been completed.
+corresponding Part has been completed. Each Test contains **4 multiple-choice
+questions** and **6 short-answer questions**.
 
 | Test | Coverage | Date | Course Weight |
 |---|---|---|---:|
@@ -59,10 +60,11 @@ corresponding Part has been completed.
 - **Sep 7**: Week 1 begins with course introduction and arrangements, followed by the first lesson.
 - **Oct 5**: No lecture during the National Day holiday.
 - **Nov 23, Nov 30, and Dec 7**: Student-presentation sessions.
-- Weekly Validation Sheets and Open Problems: content and release details **TBD**.
+- Week 1–10 Validation Sheets are available from the schedule and weekly pages;
+  Open Problems and presentation-week materials remain **TBD**.
 - Presentations are based on the approved individual [Assignment or Programming
   Project](assignment.md).
 - Assignment/project submission: by the middle of the examination period.
 - Presentation rubric, submission method, and student order: **TBD**.
 
-*Last updated: August 28, 2026*
+*Last updated: August 29, 2026*

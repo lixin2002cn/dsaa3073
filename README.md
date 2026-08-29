@@ -27,13 +27,14 @@ tracked. Edit the Markdown files in `docs/`, not generated HTML.
 ## Material status
 
 - Week 1-10 Learning Sheets are included as downloadable PDFs.
-- Week 1-13 Validation Sheets are placeholders until the current-semester
-  files are released.
+- Week 1-10 Validation Sheets are included as downloadable student PDFs;
+  presentation-week materials for Weeks 11-13 remain placeholders.
 - Week 1-10 Cheatsheets are included as downloadable PDFs.
 - Week 1-13 Open Problems are placeholders with topics marked TBD.
 - Five equally weighted Part Tests contribute 70% of the course grade. Each
-  Test is 130 marks, lasts 30 minutes, and is held in the class following
-  completion of its Part.
+  Test is 120 marks, contains 4 multiple-choice questions and 6 short-answer
+  questions, lasts 30 minutes, and is held in the class following completion
+  of its Part.
 - Week 11-13 are reserved for student presentations and contribute 30% of the
   course grade. Each presentation is based on an individually completed,
   instructor-approved written assignment or programming project; the detailed

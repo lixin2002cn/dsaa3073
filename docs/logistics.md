@@ -42,8 +42,9 @@ Part Tests and do not contribute to the course grade unless announced otherwise.
 | Number of Tests | 5, one after each Part |
 | Timing | The next class after the Part is completed |
 | Duration | 30 minutes per Test |
-| Marks | 130 marks per Test |
-| Total raw marks | 650 marks |
+| Marks | 120 marks per Test |
+| Format | 4 multiple-choice questions and 6 short-answer questions |
+| Total raw marks | 600 marks |
 | Course weighting | 14% per Test; 70% in total |
 
 ### Student Presentation
@@ -106,4 +107,4 @@ This course uses a **self-paced, assisted learning** approach:
 5. Instructor and TA support during scheduled class and Tutorial time.
 6. Student presentations in Weeks 11–13.
 
-*Last updated: August 28, 2026*
+*Last updated: August 29, 2026*

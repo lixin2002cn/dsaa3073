@@ -62,7 +62,8 @@ three student-presentation weeks.
 - A weekly Validation Sheet for checking understanding
 - A concise Cheatsheet for each content week in Weeks 1–10
 - Weekly Open Problems for further exploration
-- Five equally weighted 30-minute, 130-mark Part Tests, together worth **70%**
+- Five equally weighted 30-minute, 120-mark Part Tests, each containing four
+  multiple-choice questions and six short-answer questions, together worth **70%**
 - A 50-minute Tuesday Tutorial for collaborative learning and support
 - Student presentations in Weeks 11–13, worth **30%**
 
