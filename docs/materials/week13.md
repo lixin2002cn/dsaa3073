@@ -12,6 +12,5 @@
 ## Materials
 
 - 📝 Week 13 Validation Sheet — **TBD**
-- 🔎 Week 13 Open Problems — **TBD**
 
 [← Previous Week](week12.md) · [Back to Schedule](../schedule.md)

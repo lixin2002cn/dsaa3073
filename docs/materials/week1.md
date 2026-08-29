@@ -18,6 +18,6 @@ then continues directly into the first lesson.
 - [📄 Week 1 Learning Sheet](../pdfs/learning-sheets/Week1_Learning_Sheet.pdf)
 - [📝 Week 1 Validation Sheet](../pdfs/validation-sheets/Week1_Validation_Sheet.pdf)
 - [📋 Week 1 Cheatsheet](../pdfs/cheatsheets/Week1_Cheatsheet.pdf)
-- 🔎 Week 1 Open Problems — **TBD**
+- [🔎 Week 1 Open Investigation](../pdfs/open-investigations/Week1_Open_Investigation.pdf)
 
 [Next Week →](week2.md)

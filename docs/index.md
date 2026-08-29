@@ -13,7 +13,7 @@ and online learning algorithms.
 - **[Logistics](logistics.md)** - Meeting times, teaching team, assessment, grading, and requirements
 - **[Schedule & Materials](schedule.md)** - Thirteen-week plan and downloadable course materials
 - **[Assignment](assignment.md)** - Individual written assignment or programming project for the presentation
-- **[Weekly Materials](materials/index.md)** - Learning Sheets, Validation Sheets, Cheatsheets, Open Problems, and Part Tests
+- **[Weekly Materials](materials/index.md)** - Learning Sheets, Validation Sheets, Cheatsheets, Open Investigations, and Part Tests
 
 ## 🎯 Course Overview
 
@@ -61,7 +61,7 @@ three student-presentation weeks.
 - A comprehensive Learning Sheet for each teaching week in Weeks 1–10
 - A weekly Validation Sheet for checking understanding
 - A concise Cheatsheet for each content week in Weeks 1–10
-- Weekly Open Problems for further exploration
+- Weekly Open Investigations for research-oriented exploration
 - Five equally weighted 30-minute, 120-mark Part Tests, each containing four
   multiple-choice questions and six short-answer questions, together worth **70%**
 - A 50-minute Tuesday Tutorial for collaborative learning and support
@@ -71,7 +71,7 @@ three student-presentation weeks.
 
 1. Work through each Learning Sheet in sequence.
 2. Use the weekly Validation Sheet to check your understanding.
-3. Attempt the Open Problems after completing the core material.
+3. Work through the Open Investigation after completing the core material.
 4. Review both weeks in a Part before its Test.
 5. Ask questions during class and attend the Tuesday Tutorial.
 

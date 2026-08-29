@@ -12,7 +12,6 @@
 ## Materials
 
 - 📝 Week 11 Validation Sheet — **TBD**
-- 🔎 Week 11 Open Problems — **TBD**
 - 🧪 Part 5 Test — 120 marks, 30 minutes, 14% of the course grade
 
 The Part 5 Test is held before the Week 11 presentation activities.

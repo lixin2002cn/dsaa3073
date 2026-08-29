@@ -12,6 +12,5 @@
 ## Materials
 
 - 📝 Week 12 Validation Sheet — **TBD**
-- 🔎 Week 12 Open Problems — **TBD**
 
 [← Previous Week](week11.md) · [Next Week →](week13.md)

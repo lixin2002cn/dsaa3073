@@ -32,7 +32,7 @@ Fall 2026 · HKUST-GZ
 ### Weekly Validation Sheets
 
 A Validation Sheet is provided every week to help students check their
-understanding. Validation Sheets and Open Problems are distinct from the timed
+understanding. Validation Sheets and Open Investigations are distinct from the timed
 Part Tests and do not contribute to the course grade unless announced otherwise.
 
 ### Part Tests
@@ -102,7 +102,7 @@ This course uses a **self-paced, assisted learning** approach:
 
 1. Self-directed study with comprehensive Learning Sheets.
 2. Weekly Validation Sheets for checking understanding.
-3. Weekly Open Problems for further exploration.
+3. Weekly Open Investigations for research-oriented exploration.
 4. Five 30-minute Part Tests, held after the corresponding Parts.
 5. Instructor and TA support during scheduled class and Tutorial time.
 6. Student presentations in Weeks 11–13.
