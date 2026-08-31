@@ -15,7 +15,6 @@
 - [📄 Week 6 Learning Sheet](../pdfs/learning-sheets/Week6_Learning_Sheet.pdf)
 - [📝 Week 6 Validation Sheet](../pdfs/validation-sheets/Week6_Validation_Sheet.pdf)
 - [📋 Week 6 Cheatsheet](../pdfs/cheatsheets/Week6_Cheatsheet.pdf)
-- [🔎 Week 6 Open Investigation](../pdfs/open-investigations/Week6_Open_Investigation.pdf)
 
 !!! note "Next class: Part 3 Test"
     The Part 3 Test covers Weeks 5–6, is worth 120 marks, and lasts 30 minutes.

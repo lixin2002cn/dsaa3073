@@ -7,7 +7,6 @@ For each week, this section provides or reserves a place for:
 - the Learning Sheet or presentation brief;
 - a weekly Validation Sheet;
 - a Cheatsheet for each content week in Weeks 1–10;
-- a weekly Open Investigation for each content week;
 - the relevant Part Test when scheduled.
 
 ## Part 1 · Mathematical Preliminaries

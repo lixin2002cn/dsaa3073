@@ -30,7 +30,6 @@ tracked. Edit the Markdown files in `docs/`, not generated HTML.
 - Week 1-10 Validation Sheets are included as downloadable student PDFs;
   presentation-week materials for Weeks 11-13 remain placeholders.
 - Week 1-10 Cheatsheets are included as downloadable PDFs.
-- Week 1-10 Open Investigations are included as downloadable student PDFs.
 - Five equally weighted Part Tests contribute 70% of the course grade. Each
   Test is 120 marks, contains 4 multiple-choice questions and 6 short-answer
   questions, lasts 30 minutes, and is held in the class following completion
@@ -44,4 +43,3 @@ Future files should use these stable names:
 
 - `docs/pdfs/validation-sheets/WeekN_Validation_Sheet.pdf`
 - `docs/pdfs/cheatsheets/WeekN_Cheatsheet.pdf`
-- `docs/pdfs/open-investigations/WeekN_Open_Investigation.pdf`

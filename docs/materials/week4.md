@@ -16,7 +16,6 @@
 - [📄 Week 4 Learning Sheet](../pdfs/learning-sheets/Week4_Learning_Sheet.pdf)
 - [📝 Week 4 Validation Sheet](../pdfs/validation-sheets/Week4_Validation_Sheet.pdf)
 - [📋 Week 4 Cheatsheet](../pdfs/cheatsheets/Week4_Cheatsheet.pdf)
-- [🔎 Week 4 Open Investigation](../pdfs/open-investigations/Week4_Open_Investigation.pdf)
 
 !!! note "Next class: Part 2 Test"
     The Part 2 Test covers Weeks 3–4, is worth 120 marks, and lasts 30 minutes.
