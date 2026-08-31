@@ -2,103 +2,62 @@
 
 ## Fall 2026 · HKUST-GZ
 
-Welcome to **DSAA3073 - Theories in Data Science**!
+DSAA3073 introduces the theoretical foundations of data science, covering
+mathematical preliminaries, PAC learning, classical methods, ensemble learning,
+and online learning. The course emphasizes rigorous reasoning, mathematical
+guarantees, and connections between theory and modern data-science problems.
 
-This course provides a comprehensive theoretical foundation for data science,
-covering statistical learning theory, classical methods, ensemble learning,
-and online learning algorithms.
+Go directly to the **[course schedule](schedule.md)**, **[weekly
+materials](materials/index.md)**, or **[assignment requirements](assignment.md)**.
 
-## 📋 Quick Links
+## Course at a Glance
 
-- **[Logistics](logistics.md)** - Meeting times, teaching team, assessment, grading, and requirements
-- **[Schedule & Materials](schedule.md)** - Thirteen-week plan and downloadable course materials
-- **[Assignment](assignment.md)** - Individual written assignment or programming project for the presentation
-- **[Weekly Materials](materials/index.md)** - Learning Sheets, Validation Sheets, Cheatsheets, Open Investigations, and Part Tests
+| Type | Days & Times | Room | Instructor / TA | Meeting Dates | Format |
+|---|---|---|---|---|---|
+| **Lecture** | Mon<br>15:00–17:50 | Room 202, E3 | Prof. WANG Wei | Sep 1 – Dec 7, 2026 | Self-paced, assisted learning |
+| **Tutorial** | Tue<br>09:00–09:50 | Room 202, E3 | **Led by TA** | Sep 1 – Dec 7, 2026 | Group-based learning and support |
 
-## 🎯 Course Overview
+## Teaching Team
 
-This course is organized into five Parts across ten teaching weeks, followed by
-three student-presentation weeks.
+| Role | Name | Contact |
+|---|---|---|
+| **Instructor** | Prof. WANG Wei | [weiwcs@ust.hk](mailto:weiwcs@ust.hk) |
+| **Teaching Assistant** | Xin LI | [xli420@connect.hkust-gz.edu.cn](mailto:xli420@connect.hkust-gz.edu.cn) |
 
-### Course Structure (13 Weeks, 5 Parts)
+## Assessment
 
-**Part 1: Mathematical Preliminaries (Weeks 1–2)**
+| Component | Weight |
+|---|---:|
+| Five Part Tests | 70% |
+| Student Presentation | 30% |
+| **Total** | **100%** |
 
-- Probability, concentration inequalities, norms, and Hilbert spaces
-- Convexity, optimization, and computational complexity
+Each Part Test is worth **120 marks**, lasts **30 minutes**, and contains
+**4 multiple-choice questions** and **6 short-answer questions**. The five
+Tests are equally weighted at 14% each.
 
-**Part 2: PAC Learning Framework (Weeks 3–4)**
+Weekly Validation Sheets are provided for checking understanding and do not
+contribute to the course grade unless announced otherwise. Student
+presentations take place in Weeks 11–13 and are based on an individually
+completed, instructor-approved [assignment or programming project](assignment.md).
 
-- Risk, ERM, PAC learning, finite hypothesis classes, and VC dimension
-- Agnostic PAC learning, uniform convergence, Rademacher complexity, and symmetrization
+## Essential Requirements
 
-**Part 3: Classical Methods (Weeks 5–6)**
+- Bring a laptop or tablet to class.
+- Use the provided AI app during class learning activities.
+- Follow HKUST(GZ)'s Academic Honor Code. Academic misconduct is not tolerated.
 
-- Bias–variance, ill-posed problems, Tikhonov regularization, and ridge regression
-- Cross-validation, LOOCV, PRESS, AIC, BIC, and honest model selection
+??? info "Grading thresholds"
 
-**Part 4: Ensemble Learning (Weeks 7–8)**
+    | Grade | Minimum Score | Additional Requirement |
+    |---|---:|---|
+    | **A+ A A-** | 85 | Must be ranked in the top 30% |
+    | **B+ B B-** | 70 | — |
+    | **C+ C C-** | 60 | — |
+    | **D** | 50 | — |
+    | **F** | < 50 | — |
 
-- Weak learning, AdaBoost, and training-error guarantees
-- Margins, exponential loss, and coordinate-descent interpretations
+    Subgrades such as A− or B+ are assigned based on the distribution of
+    overall course grades.
 
-**Part 5: Online Learning (Weeks 9–10)**
-
-- Expert advice, Halving, Weighted Majority, and multiplicative weights
-- Online convex optimization, OGD, FTL, FTRL, and online-to-batch conversion
-
-**Student Presentations (Weeks 11–13)**
-
-- Each presentation is based on an individually completed, instructor-approved
-  written assignment or programming project.
-- Detailed presentation requirements and student order: **TBD**
-- Student presentations contribute **30%** of the course grade.
-
-## 📖 Learning Approach
-
-### Weekly Format
-
-- A comprehensive Learning Sheet for each teaching week in Weeks 1–10
-- A weekly Validation Sheet for checking understanding
-- A concise Cheatsheet for each content week in Weeks 1–10
-- Weekly Open Investigations for research-oriented exploration
-- Five equally weighted 30-minute, 120-mark Part Tests, each containing four
-  multiple-choice questions and six short-answer questions, together worth **70%**
-- A 50-minute Tuesday Tutorial for collaborative learning and support
-- Student presentations in Weeks 11–13, worth **30%**
-
-### How to Succeed
-
-1. Work through each Learning Sheet in sequence.
-2. Use the weekly Validation Sheet to check your understanding.
-3. Work through the Open Investigation after completing the core material.
-4. Review both weeks in a Part before its Test.
-5. Ask questions during class and attend the Tuesday Tutorial.
-
-## 🎓 Learning Objectives
-
-By the end of this course, you will be able to:
-
-1. Use the mathematical tools required for learning-theory arguments.
-2. Analyze generalization guarantees and sample complexity.
-3. Apply PAC, VC, uniform-convergence, and complexity-based frameworks.
-4. Analyze regularization and model-selection methods.
-5. Derive guarantees for boosting and online-learning algorithms.
-6. Communicate a theoretical data-science topic in a student presentation.
-
-## 💡 Prerequisites
-
-This course assumes:
-
-- ✅ Strong foundations in linear algebra, calculus, and probability
-- ✅ Familiarity with basic algorithms and data structures
-- ✅ Comfort with mathematical proofs and formal reasoning
-- ✅ Programming experience for implementing theoretical concepts
-
-## 📝 Academic Integrity
-
-Students must uphold HKUST(GZ)'s Academic Honor Code and maintain the highest
-standards of academic integrity. The University has zero tolerance of academic
-misconduct.
-
-*Last updated: August 28, 2026*
+*Last updated: August 31, 2026*

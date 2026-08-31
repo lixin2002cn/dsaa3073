@@ -57,9 +57,7 @@ extra:
 
 nav:
   - Home: index.md
-  - Logistics: logistics.md
   - Schedule: schedule.md
-  - Assignment: assignment.md
   - Materials:
       - Overview: materials/index.md
       - Week 1: materials/week1.md
@@ -75,5 +73,6 @@ nav:
       - Week 11: materials/week11.md
       - Week 12: materials/week12.md
       - Week 13: materials/week13.md
+  - Assignment: assignment.md
 
 copyright: Copyright &copy; 2026 HKUST-GZ
