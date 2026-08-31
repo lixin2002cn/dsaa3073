@@ -11,6 +11,7 @@ then continues directly into the first lesson.
 
 - Probability and concentration inequalities
 - Norms and geometry
+- Compact singular-value decomposition and singular directions
 - Hilbert spaces
 
 ## Materials

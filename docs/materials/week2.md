@@ -7,8 +7,9 @@
 ## Topics
 
 - Convex sets and convex functions
-- First-order optimization
-- Computational complexity and statistical guarantees
+- Global optimality, uniqueness, and first-order certificates
+- Hessian curvature, smoothness, and a justified gradient step
+- Big-O notation, polynomial time, and statistical–computational gaps
 
 ## Materials
 
