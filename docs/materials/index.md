@@ -7,6 +7,7 @@ For each week, this section provides or reserves a place for:
 - the Learning Sheet or presentation brief;
 - a weekly Validation Sheet;
 - a Cheatsheet for each content week in Weeks 1–10;
+- Tutorial notes and worked discussions;
 - the relevant Part Test when scheduled.
 
 ## Part 1 · Mathematical Preliminaries
@@ -34,10 +35,14 @@ For each week, this section provides or reserves a place for:
 - [Week 9: Expert Advice and MWU](week9.md)
 - [Week 10: Online Convex Optimization](week10.md)
 
+## Tutorial Notes
+
+- [Tutorial 1: Expectation, Bounds, and Covariance](../pdfs/tutorials/Tutorial1_Notes.pdf)
+
 ## Student Presentations
 
 The presentations are based on each student's approved individual
-[Assignment or Programming Project](../assignment.md).
+[Assignment or Programming Project](../index.md#assignment).
 
 - [Week 11: Student Presentations I](week11.md)
 - [Week 12: Student Presentations II](week12.md)

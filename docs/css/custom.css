@@ -3,15 +3,43 @@
 :root {
     --primary-color: #3f51b5;
     --accent-color: #5c6bc0;
+    --course-callout-border: #7986cb;
+    --course-callout-title: rgba(63, 81, 181, 0.09);
+    --course-callout-icon: #5c6bc0;
 }
 
-/* Increase content width */
+/* Keep room around the content and the integrated left-hand navigation. */
 .md-grid {
-    max-width: 80rem;
+    max-width: 72rem;
 }
 
 .md-main__inner {
-    max-width: 80rem;
+    max-width: 72rem;
+}
+
+[data-md-color-scheme="slate"] {
+    --course-callout-border: #7986cb;
+    --course-callout-title: rgba(159, 168, 218, 0.12);
+    --course-callout-icon: #b7c0f3;
+}
+
+/* Course information and test notices share the indigo palette. */
+.md-typeset .admonition:is(.info, .note),
+.md-typeset details:is(.info, .note) {
+    border-color: var(--course-callout-border);
+    box-shadow: none;
+}
+
+.md-typeset :is(.info, .note) > :is(.admonition-title, summary) {
+    background-color: var(--course-callout-title);
+}
+
+.md-typeset :is(.info, .note) > :is(.admonition-title, summary)::before {
+    background-color: var(--course-callout-icon);
+}
+
+.md-typeset details:is(.info, .note) > summary::after {
+    color: var(--course-callout-icon);
 }
 
 /* Make PDF links more prominent */
@@ -34,6 +62,30 @@
     background-color: rgba(63, 81, 181, 0.1);
     font-weight: 600;
 }
+
+/* Fix the schedule's column proportions so Topics wraps before crowding downloads. */
+.md-typeset #course-schedule table {
+    display: table;
+    width: 100%;
+    min-width: 48rem;
+    table-layout: fixed;
+    font-size: .8rem;
+}
+
+.md-typeset #course-schedule th,
+.md-typeset #course-schedule td {
+    padding: .7rem .6rem;
+    overflow-wrap: break-word;
+    vertical-align: top;
+}
+
+.md-typeset #course-schedule th:nth-child(1) { width: 11%; }
+.md-typeset #course-schedule th:nth-child(2) { width: 16%; }
+.md-typeset #course-schedule th:nth-child(3) { width: 10%; }
+.md-typeset #course-schedule th:nth-child(4) { width: 28%; }
+.md-typeset #course-schedule th:nth-child(5) { width: 13%; }
+.md-typeset #course-schedule th:nth-child(6) { width: 11%; }
+.md-typeset #course-schedule th:nth-child(7) { width: 11%; }
 
 /* Responsive tables */
 @media screen and (max-width: 768px) {

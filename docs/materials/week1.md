@@ -20,4 +20,8 @@ then continues directly into the first lesson.
 - [📝 Week 1 Validation Sheet](../pdfs/validation-sheets/Week1_Validation_Sheet.pdf)
 - [📋 Week 1 Cheatsheet](../pdfs/cheatsheets/Week1_Cheatsheet.pdf)
 
+## Tutorial Notes
+
+- [Tutorial 1: Expectation, Bounds, and Covariance](../pdfs/tutorials/Tutorial1_Notes.pdf)
+
 [Next Week →](week2.md)

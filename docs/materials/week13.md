@@ -4,7 +4,7 @@
 
 ## Presentation Week
 
-- Presentation basis: approved individual [Assignment or Programming Project](../assignment.md)
+- Presentation basis: approved individual [Assignment or Programming Project](../index.md#assignment)
 - Presentation topic: selected from the approved project
 - Presentation order: **TBD**
 - Presentation brief and rubric: **TBD**
@@ -13,4 +13,4 @@
 
 - 📝 Week 13 Validation Sheet — **TBD**
 
-[← Previous Week](week12.md) · [Back to Schedule](../schedule.md)
+[← Previous Week](week12.md) · [Back to Schedule](../index.md#schedule)

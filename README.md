@@ -1,9 +1,8 @@
 # DSAA3073 course website
 
 This is the maintainable MkDocs source project for the Fall 2026 edition of
-DSAA3073 - Theories in Data Science. Its Material theme version, palette,
-fonts, navigation features, favicon, and custom stylesheet match the previous
-published website.
+DSAA3073 - Theories in Data Science. The site uses MkDocs Material with two main pages and a course-focused layout
+inspired by the DSAA1001 website.
 
 ## Local preview
 
@@ -43,3 +42,26 @@ Future files should use these stable names:
 
 - `docs/pdfs/validation-sheets/WeekN_Validation_Sheet.pdf`
 - `docs/pdfs/cheatsheets/WeekN_Cheatsheet.pdf`
+- `docs/pdfs/tutorials/TutorialN_Notes.pdf`
+
+Tutorial handouts are listed in the Materials overview and the corresponding
+weekly page. Publish the course-language handout with a descriptive title such
+as `Tutorial 1: Expectation, Bounds, and Covariance`; filenames and download
+labels should not include language-version suffixes.
+
+## Page organization
+
+- `docs/index.md`: course introduction, teaching team, complete schedule,
+  assessment rules, and the assignment requirements at the bottom.
+- `docs/materials/index.md`: the original Part/weekly-link overview, with
+  downloads on each weekly page. Home also provides direct PDF links in its
+  schedule table, whose entries are labeled Lecture 1-13.
+- `mkdocs.yml`: the two primary navigation entries, Home and Materials.
+- `docs/css/custom.css`: layout, tables, colors, and light/dark presentation.
+
+Previously published schedule, assignment, and weekly URLs are retained for
+existing bookmarks. Internal schedule and assignment links point to Home.
+Keep dates and Part Test information consistent between Home and the weekly pages.
+
+On Windows, use `.venv\Scripts\python.exe -m mkdocs serve` for local preview
+and `.venv\Scripts\python.exe -m mkdocs build --strict` for validation.

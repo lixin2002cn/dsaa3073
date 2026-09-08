@@ -4,7 +4,7 @@
 
 ## Presentation Week
 
-- Presentation basis: approved individual [Assignment or Programming Project](../assignment.md)
+- Presentation basis: approved individual [Assignment or Programming Project](../index.md#assignment)
 - Presentation topic: selected from the approved project
 - Presentation order: **TBD**
 - Presentation brief and rubric: **TBD**

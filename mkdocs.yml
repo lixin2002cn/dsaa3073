@@ -26,12 +26,13 @@ theme:
         name: Switch to light mode
   features:
     - navigation.tabs
-    - navigation.sections
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.highlight
     - search.share
     - toc.follow
+    - toc.integrate
     - content.code.copy
 
 plugins:
@@ -41,9 +42,11 @@ plugins:
 markdown_extensions:
   - admonition
   - attr_list
+  - md_in_html
   - tables
   - toc:
       permalink: false
+      toc_depth: 2
   - pymdownx.details
   - pymdownx.superfences
 
@@ -57,7 +60,6 @@ extra:
 
 nav:
   - Home: index.md
-  - Schedule: schedule.md
   - Materials:
       - Overview: materials/index.md
       - Week 1: materials/week1.md
@@ -73,6 +75,11 @@ nav:
       - Week 11: materials/week11.md
       - Week 12: materials/week12.md
       - Week 13: materials/week13.md
-  - Assignment: assignment.md
+
+# Retain previously published URLs outside the two main pages.
+not_in_nav: |
+  /schedule.md
+  /assignment.md
+  /logistics.md
 
 copyright: Copyright &copy; 2026 HKUST-GZ
