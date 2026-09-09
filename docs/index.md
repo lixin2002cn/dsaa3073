@@ -9,6 +9,8 @@ mathematical preliminaries, PAC learning, classical methods, ensemble learning,
 and online learning. The course emphasizes rigorous reasoning, mathematical
 guarantees, and connections between theory and modern data-science problems.
 
+[Course Introduction Slides (PDF)](pdfs/course-introduction/intro-logistics-slides.pdf)
+
 ## Course Information
 
 | Type | Days & Times | Room | Meeting Dates | Format |
