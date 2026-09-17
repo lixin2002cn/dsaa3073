@@ -1,4 +1,4 @@
-# Week 6: Model Selection
+# Lecture 6: Model Selection
 
 **Part 3 · Classical Methods**
 
@@ -12,12 +12,12 @@
 
 ## Materials
 
-- [📄 Week 6 Learning Sheet](../pdfs/learning-sheets/Week6_Learning_Sheet.pdf)
-- [📝 Week 6 Validation Sheet](../pdfs/validation-sheets/Week6_Validation_Sheet.pdf)
-- [📋 Week 6 Cheatsheet](../pdfs/cheatsheets/Week6_Cheatsheet.pdf)
+- [📄 Lecture 6 Learning Sheet](../pdfs/learning-sheets/Week6_Learning_Sheet.pdf)
+- [📝 Lecture 6 Validation Sheet](../pdfs/validation-sheets/Week6_Validation_Sheet.pdf)
+- [📋 Lecture 6 Cheatsheet](../pdfs/cheatsheets/Week6_Cheatsheet.pdf)
 
 !!! note "Next class: Part 3 Test"
-    The Part 3 Test covers Weeks 5–6, is worth 120 marks, and lasts 30 minutes.
+    The Part 3 Test covers Lectures 5–6, is worth 120 marks, and lasts 30 minutes.
     It contributes 14% of the course grade.
 
-[← Previous Week](week5.md) · [Next Week →](week7.md)
+[← Previous Lecture](week5.md) · [Next Lecture →](week7.md)

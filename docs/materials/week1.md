@@ -1,4 +1,4 @@
-# Week 1: Mathematical Preliminaries A
+# Lecture 1: Mathematical Preliminaries A
 
 **Part 1 · Mathematical Preliminaries**
 
@@ -16,12 +16,12 @@ then continues directly into the first lesson.
 
 ## Materials
 
-- [📄 Week 1 Learning Sheet](../pdfs/learning-sheets/Week1_Learning_Sheet.pdf)
-- [📝 Week 1 Validation Sheet](../pdfs/validation-sheets/Week1_Validation_Sheet.pdf)
-- [📋 Week 1 Cheatsheet](../pdfs/cheatsheets/Week1_Cheatsheet.pdf)
+- [📄 Lecture 1 Learning Sheet](../pdfs/learning-sheets/Week1_Learning_Sheet.pdf)
+- [📝 Lecture 1 Validation Sheet](../pdfs/validation-sheets/Week1_Validation_Sheet.pdf)
+- [📋 Lecture 1 Cheatsheet](../pdfs/cheatsheets/Week1_Cheatsheet.pdf)
 
 ## Tutorial Notes
 
 - [Tutorial 1: Expectation, Bounds, and Covariance](../pdfs/tutorials/Tutorial1_Notes.pdf)
 
-[Next Week →](week2.md)
+[Next Lecture →](week2.md)

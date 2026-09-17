@@ -1,4 +1,4 @@
-# Week 2: Mathematical Preliminaries B
+# Lecture 2: Mathematical Preliminaries B
 
 **Part 1 · Mathematical Preliminaries**
 
@@ -13,12 +13,16 @@
 
 ## Materials
 
-- [📄 Week 2 Learning Sheet](../pdfs/learning-sheets/Week2_Learning_Sheet.pdf)
-- [📝 Week 2 Validation Sheet](../pdfs/validation-sheets/Week2_Validation_Sheet.pdf)
-- [📋 Week 2 Cheatsheet](../pdfs/cheatsheets/Week2_Cheatsheet.pdf)
+- [📄 Lecture 2 Learning Sheet](../pdfs/learning-sheets/Week2_Learning_Sheet.pdf)
+- [📝 Lecture 2 Validation Sheet](../pdfs/validation-sheets/Week2_Validation_Sheet.pdf)
+- [📋 Lecture 2 Cheatsheet](../pdfs/cheatsheets/Week2_Cheatsheet.pdf)
+
+## Tutorial Notes
+
+- [Tutorial 2: Coordinates, Gradient Descent, and SOAP](../pdfs/tutorials/Tutorial2_Notes.pdf)
 
 !!! note "Next class: Part 1 Test"
-    The Part 1 Test covers Weeks 1–2, is worth 120 marks, and lasts 30 minutes.
+    The Part 1 Test covers Lectures 1–2, is worth 120 marks, and lasts 30 minutes.
     It contributes 14% of the course grade.
 
-[← Previous Week](week1.md) · [Next Week →](week3.md)
+[← Previous Lecture](week1.md) · [Next Lecture →](week3.md)

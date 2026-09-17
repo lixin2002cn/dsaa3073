@@ -1,4 +1,4 @@
-# Week 9: Expert Advice and MWU
+# Lecture 9: Expert Advice and MWU
 
 **Part 5 · Online Learning**
 
@@ -12,9 +12,9 @@
 
 ## Materials
 
-- [📄 Week 9 Learning Sheet](../pdfs/learning-sheets/Week9_Learning_Sheet.pdf)
-- [📝 Week 9 Validation Sheet](../pdfs/validation-sheets/Week9_Validation_Sheet.pdf)
-- [📋 Week 9 Cheatsheet](../pdfs/cheatsheets/Week9_Cheatsheet.pdf)
+- [📄 Lecture 9 Learning Sheet](../pdfs/learning-sheets/Week9_Learning_Sheet.pdf)
+- [📝 Lecture 9 Validation Sheet](../pdfs/validation-sheets/Week9_Validation_Sheet.pdf)
+- [📋 Lecture 9 Cheatsheet](../pdfs/cheatsheets/Week9_Cheatsheet.pdf)
 - 🧪 Part 4 Test — 120 marks, 30 minutes, 14% of the course grade
 
-[← Previous Week](week8.md) · [Next Week →](week10.md)
+[← Previous Lecture](week8.md) · [Next Lecture →](week10.md)

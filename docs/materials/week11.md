@@ -1,8 +1,8 @@
-# Week 11: Student Presentations I
+# Lecture 11: Student Presentations I
 
 **Lecture:** Monday, November 23, 2026
 
-## Presentation Week
+## Presentation Session
 
 - Presentation basis: approved individual [Assignment or Programming Project](../index.md#assignment)
 - Presentation topic: selected from the approved project
@@ -11,9 +11,9 @@
 
 ## Materials
 
-- 📝 Week 11 Validation Sheet — **TBD**
+- 📝 Lecture 11 Validation Sheet — **TBD**
 - 🧪 Part 5 Test — 120 marks, 30 minutes, 14% of the course grade
 
-The Part 5 Test is held before the Week 11 presentation activities.
+The Part 5 Test is held before the Lecture 11 presentation activities.
 
-[← Previous Week](week10.md) · [Next Week →](week12.md)
+[← Previous Lecture](week10.md) · [Next Lecture →](week12.md)

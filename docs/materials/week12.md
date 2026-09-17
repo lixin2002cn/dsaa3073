@@ -1,8 +1,8 @@
-# Week 12: Student Presentations II
+# Lecture 12: Student Presentations II
 
 **Lecture:** Monday, November 30, 2026
 
-## Presentation Week
+## Presentation Session
 
 - Presentation basis: approved individual [Assignment or Programming Project](../index.md#assignment)
 - Presentation topic: selected from the approved project
@@ -11,6 +11,6 @@
 
 ## Materials
 
-- 📝 Week 12 Validation Sheet — **TBD**
+- 📝 Lecture 12 Validation Sheet — **TBD**
 
-[← Previous Week](week11.md) · [Next Week →](week13.md)
+[← Previous Lecture](week11.md) · [Next Lecture →](week13.md)

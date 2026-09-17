@@ -1,4 +1,4 @@
-# Week 7: AdaBoost
+# Lecture 7: AdaBoost
 
 **Part 4 · Ensemble Learning**
 
@@ -12,9 +12,9 @@
 
 ## Materials
 
-- [📄 Week 7 Learning Sheet](../pdfs/learning-sheets/Week7_Learning_Sheet.pdf)
-- [📝 Week 7 Validation Sheet](../pdfs/validation-sheets/Week7_Validation_Sheet.pdf)
-- [📋 Week 7 Cheatsheet](../pdfs/cheatsheets/Week7_Cheatsheet.pdf)
+- [📄 Lecture 7 Learning Sheet](../pdfs/learning-sheets/Week7_Learning_Sheet.pdf)
+- [📝 Lecture 7 Validation Sheet](../pdfs/validation-sheets/Week7_Validation_Sheet.pdf)
+- [📋 Lecture 7 Cheatsheet](../pdfs/cheatsheets/Week7_Cheatsheet.pdf)
 - 🧪 Part 3 Test — 120 marks, 30 minutes, 14% of the course grade
 
-[← Previous Week](week6.md) · [Next Week →](week8.md)
+[← Previous Lecture](week6.md) · [Next Lecture →](week8.md)

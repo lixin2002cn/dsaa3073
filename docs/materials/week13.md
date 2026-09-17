@@ -1,8 +1,8 @@
-# Week 13: Student Presentations III
+# Lecture 13: Student Presentations III
 
 **Lecture:** Monday, December 7, 2026
 
-## Presentation Week
+## Presentation Session
 
 - Presentation basis: approved individual [Assignment or Programming Project](../index.md#assignment)
 - Presentation topic: selected from the approved project
@@ -11,6 +11,6 @@
 
 ## Materials
 
-- 📝 Week 13 Validation Sheet — **TBD**
+- 📝 Lecture 13 Validation Sheet — **TBD**
 
-[← Previous Week](week12.md) · [Back to Schedule](../index.md#schedule)
+[← Previous Lecture](week12.md) · [Back to Schedule](../index.md#schedule)
