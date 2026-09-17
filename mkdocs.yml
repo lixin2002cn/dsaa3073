@@ -62,19 +62,19 @@ nav:
   - Home: index.md
   - Materials:
       - Overview: materials/index.md
-      - Week 1: materials/week1.md
-      - Week 2: materials/week2.md
-      - Week 3: materials/week3.md
-      - Week 4: materials/week4.md
-      - Week 5: materials/week5.md
-      - Week 6: materials/week6.md
-      - Week 7: materials/week7.md
-      - Week 8: materials/week8.md
-      - Week 9: materials/week9.md
-      - Week 10: materials/week10.md
-      - Week 11: materials/week11.md
-      - Week 12: materials/week12.md
-      - Week 13: materials/week13.md
+      - Lecture 1: materials/week1.md
+      - Lecture 2: materials/week2.md
+      - Lecture 3: materials/week3.md
+      - Lecture 4: materials/week4.md
+      - Lecture 5: materials/week5.md
+      - Lecture 6: materials/week6.md
+      - Lecture 7: materials/week7.md
+      - Lecture 8: materials/week8.md
+      - Lecture 9: materials/week9.md
+      - Lecture 10: materials/week10.md
+      - Lecture 11: materials/week11.md
+      - Lecture 12: materials/week12.md
+      - Lecture 13: materials/week13.md
 
 # Retain previously published URLs outside the two main pages.
 not_in_nav: |
