@@ -17,7 +17,8 @@ then continues directly into the first lesson.
 ## Materials
 
 - [📄 Lecture 1 Learning Sheet](../pdfs/learning-sheets/Week1_Learning_Sheet.pdf)
-- [📝 Lecture 1 Validation Sheet](../pdfs/validation-sheets/Week1_Validation_Sheet.pdf)
+- [📝 Lecture 1 Validation — Questions](../pdfs/validation-sheets/Week1_Validation_Sheet.pdf)
+- [📖 Lecture 1 Validation — With Solutions](../pdfs/validation-sheets/Week1_Validation_Solutions.pdf)
 - [📋 Lecture 1 Cheatsheet](../pdfs/cheatsheets/Week1_Cheatsheet.pdf)
 
 ## Tutorial Notes

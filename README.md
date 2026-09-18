@@ -28,6 +28,8 @@ tracked. Edit the Markdown files in `docs/`, not generated HTML.
 - Week 1-10 Learning Sheets are included as downloadable PDFs.
 - Week 1-10 Validation Sheets are included as downloadable student PDFs;
   presentation-week materials for Weeks 11-13 remain placeholders.
+- Lecture 1-2 Validation Sheets with solutions are available on Home, the
+  Materials overview, and their individual lecture pages.
 - Week 1-10 Cheatsheets are included as downloadable PDFs.
 - Five equally weighted Part Tests contribute 70% of the course grade. Each
   Test is 120 marks, contains 4 multiple-choice questions and 6 short-answer
@@ -41,6 +43,7 @@ tracked. Edit the Markdown files in `docs/`, not generated HTML.
 Future files should use these stable names:
 
 - `docs/pdfs/validation-sheets/WeekN_Validation_Sheet.pdf`
+- `docs/pdfs/validation-sheets/WeekN_Validation_Solutions.pdf`
 - `docs/pdfs/cheatsheets/WeekN_Cheatsheet.pdf`
 - `docs/pdfs/tutorials/TutorialN_Notes.pdf`
 

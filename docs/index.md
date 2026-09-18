@@ -32,7 +32,9 @@ activities. Follow HKUST(GZ)'s Academic Honor Code. Academic misconduct is not t
 
 The first ten weeks cover five Parts. Weeks 11–13 are reserved for student
 presentations. Each content week has a Learning Sheet, Validation Sheet, and
-Cheatsheet. Items that have not yet been released are shown as **TBD**.
+Cheatsheet. In the Validation column, **Questions** links to the question-only
+sheet and **Solutions** links to the sheet with worked answers. Items that have
+not yet been released are shown as **TBD**.
 
 !!! info "Part Test format"
 
@@ -44,8 +46,8 @@ Cheatsheet. Items that have not yet been released are shown as **TBD**.
 
 | Lecture | Lecture Date / Test | Part | Topics | Learning Sheet | Validation | Cheatsheet |
 |---|---|---|---|---|---|---|
-| **[Lecture 1](materials/week1.md)** | Sep 7 | Part 1 | Probability, concentration, norm geometry, compact SVD, Hilbert spaces | [📄 PDF](pdfs/learning-sheets/Week1_Learning_Sheet.pdf) | [📝 PDF](pdfs/validation-sheets/Week1_Validation_Sheet.pdf) | [📋 PDF](pdfs/cheatsheets/Week1_Cheatsheet.pdf) |
-| **[Lecture 2](materials/week2.md)** | Sep 14 | Part 1 | Convexity, optimality certificates, smooth descent, Big-O and feasibility | [📄 PDF](pdfs/learning-sheets/Week2_Learning_Sheet.pdf) | [📝 PDF](pdfs/validation-sheets/Week2_Validation_Sheet.pdf) | [📋 PDF](pdfs/cheatsheets/Week2_Cheatsheet.pdf) |
+| **[Lecture 1](materials/week1.md)** | Sep 7 | Part 1 | Probability, concentration, norm geometry, compact SVD, Hilbert spaces | [📄 PDF](pdfs/learning-sheets/Week1_Learning_Sheet.pdf) | [Questions](pdfs/validation-sheets/Week1_Validation_Sheet.pdf)<br>[Solutions](pdfs/validation-sheets/Week1_Validation_Solutions.pdf) | [📋 PDF](pdfs/cheatsheets/Week1_Cheatsheet.pdf) |
+| **[Lecture 2](materials/week2.md)** | Sep 14 | Part 1 | Convexity, optimality certificates, smooth descent, Big-O and feasibility | [📄 PDF](pdfs/learning-sheets/Week2_Learning_Sheet.pdf) | [Questions](pdfs/validation-sheets/Week2_Validation_Sheet.pdf)<br>[Solutions](pdfs/validation-sheets/Week2_Validation_Solutions.pdf) | [📋 PDF](pdfs/cheatsheets/Week2_Cheatsheet.pdf) |
 | **[Lecture 3](materials/week3.md)** | Sep 21<br>🧪 **Part 1 Test** | Part 2 | Risk, ERM, PAC learning, finite classes, VC dimension | [📄 PDF](pdfs/learning-sheets/Week3_Learning_Sheet.pdf) | [📝 PDF](pdfs/validation-sheets/Week3_Validation_Sheet.pdf) | [📋 PDF](pdfs/cheatsheets/Week3_Cheatsheet.pdf) |
 | **[Lecture 4](materials/week4.md)** | Sep 28 | Part 2 | Agnostic PAC, uniform convergence, Rademacher complexity | [📄 PDF](pdfs/learning-sheets/Week4_Learning_Sheet.pdf) | [📝 PDF](pdfs/validation-sheets/Week4_Validation_Sheet.pdf) | [📋 PDF](pdfs/cheatsheets/Week4_Cheatsheet.pdf) |
 | — | Oct 5 | — | **No lecture — National Day holiday** | — | — | — |
@@ -117,4 +119,4 @@ Some ideas for the assignment/project include:
       PEFT of foundation models.
     - Explore Grokking and its theoretical foundations.
 
-*Last updated: September 8, 2026*
+*Last updated: September 18, 2026*

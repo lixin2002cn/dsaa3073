@@ -5,7 +5,7 @@ The course contains ten content lectures and three student-presentation sessions
 For each lecture, this section provides or reserves a place for:
 
 - the Learning Sheet or presentation brief;
-- a Validation Sheet;
+- a Validation Sheet and released solutions;
 - a Cheatsheet for each content lecture in Lectures 1–10;
 - Tutorial notes and worked discussions;
 - the relevant Part Test when scheduled.
@@ -34,6 +34,16 @@ For each lecture, this section provides or reserves a place for:
 
 - [Lecture 9: Expert Advice and MWU](week9.md)
 - [Lecture 10: Online Convex Optimization](week10.md)
+
+## Validation Sheets and Solutions
+
+Released solutions include the questions and worked answers. Question-only
+sheets for other lectures are available on their individual lecture pages.
+
+| Lecture | Questions only | With solutions |
+|---|---|---|
+| [Lecture 1](week1.md) | [Questions (PDF)](../pdfs/validation-sheets/Week1_Validation_Sheet.pdf) | [Solutions (PDF)](../pdfs/validation-sheets/Week1_Validation_Solutions.pdf) |
+| [Lecture 2](week2.md) | [Questions (PDF)](../pdfs/validation-sheets/Week2_Validation_Sheet.pdf) | [Solutions (PDF)](../pdfs/validation-sheets/Week2_Validation_Solutions.pdf) |
 
 ## Tutorial Notes
 

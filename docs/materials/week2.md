@@ -14,7 +14,8 @@
 ## Materials
 
 - [📄 Lecture 2 Learning Sheet](../pdfs/learning-sheets/Week2_Learning_Sheet.pdf)
-- [📝 Lecture 2 Validation Sheet](../pdfs/validation-sheets/Week2_Validation_Sheet.pdf)
+- [📝 Lecture 2 Validation — Questions](../pdfs/validation-sheets/Week2_Validation_Sheet.pdf)
+- [📖 Lecture 2 Validation — With Solutions](../pdfs/validation-sheets/Week2_Validation_Solutions.pdf)
 - [📋 Lecture 2 Cheatsheet](../pdfs/cheatsheets/Week2_Cheatsheet.pdf)
 
 ## Tutorial Notes
