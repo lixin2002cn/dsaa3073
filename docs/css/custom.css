@@ -82,10 +82,15 @@
 .md-typeset #course-schedule th:nth-child(1) { width: 11%; }
 .md-typeset #course-schedule th:nth-child(2) { width: 16%; }
 .md-typeset #course-schedule th:nth-child(3) { width: 10%; }
-.md-typeset #course-schedule th:nth-child(4) { width: 28%; }
+.md-typeset #course-schedule th:nth-child(4) { width: 26%; }
 .md-typeset #course-schedule th:nth-child(5) { width: 13%; }
-.md-typeset #course-schedule th:nth-child(6) { width: 11%; }
+.md-typeset #course-schedule th:nth-child(6) { width: 13%; }
 .md-typeset #course-schedule th:nth-child(7) { width: 11%; }
+
+/* Keep each validation file icon and label together. */
+.md-typeset #course-schedule td:nth-child(6) a {
+    white-space: nowrap;
+}
 
 /* Responsive tables */
 @media screen and (max-width: 768px) {

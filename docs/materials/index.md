@@ -42,8 +42,8 @@ sheets for other lectures are available on their individual lecture pages.
 
 | Lecture | Questions only | With solutions |
 |---|---|---|
-| [Lecture 1](week1.md) | [Questions (PDF)](../pdfs/validation-sheets/Week1_Validation_Sheet.pdf) | [Solutions (PDF)](../pdfs/validation-sheets/Week1_Validation_Solutions.pdf) |
-| [Lecture 2](week2.md) | [Questions (PDF)](../pdfs/validation-sheets/Week2_Validation_Sheet.pdf) | [Solutions (PDF)](../pdfs/validation-sheets/Week2_Validation_Solutions.pdf) |
+| [Lecture 1](week1.md) | [📝 Questions (PDF)](../pdfs/validation-sheets/Week1_Validation_Sheet.pdf) | [📖 Solutions (PDF)](../pdfs/validation-sheets/Week1_Validation_Solutions.pdf) |
+| [Lecture 2](week2.md) | [📝 Questions (PDF)](../pdfs/validation-sheets/Week2_Validation_Sheet.pdf) | [📖 Solutions (PDF)](../pdfs/validation-sheets/Week2_Validation_Solutions.pdf) |
 
 ## Tutorial Notes
 
