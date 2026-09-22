@@ -1,4 +1,4 @@
-# Lecture 8: Margins and Loss Minimization
+# Lecture 8: AdaBoost
 
 **Part 4 · Ensemble Learning**
 
@@ -6,18 +6,15 @@
 
 ## Topics
 
-- Functional margins and margin distributions
-- Margin-based generalization bounds
-- Exponential loss and coordinate descent
+- Weak learning
+- AdaBoost and its weight update
+- Training-error convergence and post-zero-error behavior
 
 ## Materials
 
-- [📄 Lecture 8 Learning Sheet](../pdfs/learning-sheets/Week8_Learning_Sheet.pdf)
-- [📝 Lecture 8 Validation Sheet](../pdfs/validation-sheets/Week8_Validation_Sheet.pdf)
-- [📋 Lecture 8 Cheatsheet](../pdfs/cheatsheets/Week8_Cheatsheet.pdf)
-
-!!! note "Next class: Part 4 Test"
-    The Part 4 Test covers Lectures 7–8, is worth 120 marks, and lasts 30 minutes.
-    It contributes 14% of the course grade.
+- [📄 Learning Sheet](../pdfs/learning-sheets/Week7_Learning_Sheet.pdf)
+- [📝 Validation Sheet](../pdfs/validation-sheets/Week7_Validation_Sheet.pdf)
+- [📋 Cheatsheet](../pdfs/cheatsheets/Week7_Cheatsheet.pdf)
+- 🧪 Part 3 Test — 120 marks, 30 minutes, 14% of the course grade
 
 [← Previous Lecture](week7.md) · [Next Lecture →](week9.md)

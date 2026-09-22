@@ -1,4 +1,4 @@
-# Lecture 10: Online Convex Optimization
+# Lecture 10: Expert Advice and MWU
 
 **Part 5 · Online Learning**
 
@@ -6,19 +6,15 @@
 
 ## Topics
 
-- Online convex optimization and projection
-- Online gradient descent
-- FTL, FTRL, curvature, and lower bounds
-- Online-to-batch conversion
+- Online-learning protocol and regret
+- Halving and Weighted Majority
+- Randomized prediction and multiplicative weights
 
 ## Materials
 
-- [📄 Lecture 10 Learning Sheet](../pdfs/learning-sheets/Week10_Learning_Sheet.pdf)
-- [📝 Lecture 10 Validation Sheet](../pdfs/validation-sheets/Week10_Validation_Sheet.pdf)
-- [📋 Lecture 10 Cheatsheet](../pdfs/cheatsheets/Week10_Cheatsheet.pdf)
-
-!!! note "Next class: Part 5 Test"
-    The Part 5 Test covers Lectures 9–10, is worth 120 marks, and lasts 30 minutes.
-    It contributes 14% of the course grade.
+- [📄 Learning Sheet](../pdfs/learning-sheets/Week9_Learning_Sheet.pdf)
+- [📝 Validation Sheet](../pdfs/validation-sheets/Week9_Validation_Sheet.pdf)
+- [📋 Cheatsheet](../pdfs/cheatsheets/Week9_Cheatsheet.pdf)
+- 🧪 Part 4 Test — 120 marks, 30 minutes, 14% of the course grade
 
 [← Previous Lecture](week9.md) · [Next Lecture →](week11.md)

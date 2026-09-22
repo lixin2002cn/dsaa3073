@@ -1,4 +1,4 @@
-# Lecture 4: Agnostic Learning and Complexity
+# Lecture 4: PAC Learning and VC Dimension
 
 **Part 2 · PAC Learning Framework**
 
@@ -6,19 +6,14 @@
 
 ## Topics
 
-- Agnostic PAC learning and uniform convergence
-- Fundamental theorem of statistical learning
-- Rademacher complexity, ghost samples, and symmetrization
-- Structural risk minimization
+- Risk, empirical risk minimization, and realizability
+- PAC learning and finite hypothesis classes
+- Growth functions, shattering, VC dimension, and Sauer–Shelah
 
 ## Materials
 
-- [📄 Lecture 4 Learning Sheet](../pdfs/learning-sheets/Week4_Learning_Sheet.pdf)
-- [📝 Lecture 4 Validation Sheet](../pdfs/validation-sheets/Week4_Validation_Sheet.pdf)
-- [📋 Lecture 4 Cheatsheet](../pdfs/cheatsheets/Week4_Cheatsheet.pdf)
-
-!!! note "Next class: Part 2 Test"
-    The Part 2 Test covers Lectures 3–4, is worth 120 marks, and lasts 30 minutes.
-    It contributes 14% of the course grade.
+- [📄 Learning Sheet](../pdfs/learning-sheets/Week3_Learning_Sheet.pdf)
+- [📝 Validation Sheet](../pdfs/validation-sheets/Week3_Validation_Sheet.pdf)
+- [📋 Cheatsheet](../pdfs/cheatsheets/Week3_Cheatsheet.pdf)
 
 [← Previous Lecture](week3.md) · [Next Lecture →](week5.md)

@@ -1,4 +1,4 @@
-# Lecture 6: Model Selection
+# Lecture 6: Regularization
 
 **Part 3 · Classical Methods**
 
@@ -6,18 +6,15 @@
 
 ## Topics
 
-- Holdout, k-fold cross-validation, and LOOCV
-- PRESS and leverage
-- AIC, BIC, and honest model selection
+- Bias–variance decomposition
+- Ill-posed problems and Tikhonov regularization
+- Ridge regression and spectral shrinkage
 
 ## Materials
 
-- [📄 Lecture 6 Learning Sheet](../pdfs/learning-sheets/Week6_Learning_Sheet.pdf)
-- [📝 Lecture 6 Validation Sheet](../pdfs/validation-sheets/Week6_Validation_Sheet.pdf)
-- [📋 Lecture 6 Cheatsheet](../pdfs/cheatsheets/Week6_Cheatsheet.pdf)
-
-!!! note "Next class: Part 3 Test"
-    The Part 3 Test covers Lectures 5–6, is worth 120 marks, and lasts 30 minutes.
-    It contributes 14% of the course grade.
+- [📄 Learning Sheet](../pdfs/learning-sheets/Week5_Learning_Sheet.pdf)
+- [📝 Validation Sheet](../pdfs/validation-sheets/Week5_Validation_Sheet.pdf)
+- [📋 Cheatsheet](../pdfs/cheatsheets/Week5_Cheatsheet.pdf)
+- 🧪 Part 2 Test — 120 marks, 30 minutes, 14% of the course grade
 
 [← Previous Lecture](week5.md) · [Next Lecture →](week7.md)

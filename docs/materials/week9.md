@@ -1,20 +1,23 @@
-# Lecture 9: Expert Advice and MWU
+# Lecture 9: Margins and Loss Minimization
 
-**Part 5 · Online Learning**
+**Part 4 · Ensemble Learning**
 
 **Lecture:** Monday, November 9, 2026
 
 ## Topics
 
-- Online-learning protocol and regret
-- Halving and Weighted Majority
-- Randomized prediction and multiplicative weights
+- Functional margins and margin distributions
+- Margin-based generalization bounds
+- Exponential loss and coordinate descent
 
 ## Materials
 
-- [📄 Lecture 9 Learning Sheet](../pdfs/learning-sheets/Week9_Learning_Sheet.pdf)
-- [📝 Lecture 9 Validation Sheet](../pdfs/validation-sheets/Week9_Validation_Sheet.pdf)
-- [📋 Lecture 9 Cheatsheet](../pdfs/cheatsheets/Week9_Cheatsheet.pdf)
-- 🧪 Part 4 Test — 120 marks, 30 minutes, 14% of the course grade
+- [📄 Learning Sheet](../pdfs/learning-sheets/Week8_Learning_Sheet.pdf)
+- [📝 Validation Sheet](../pdfs/validation-sheets/Week8_Validation_Sheet.pdf)
+- [📋 Cheatsheet](../pdfs/cheatsheets/Week8_Cheatsheet.pdf)
+
+!!! note "Next class: Part 4 Test"
+    The Part 4 Test covers Lectures 8–9, is worth 120 marks, and lasts 30 minutes.
+    It contributes 14% of the course grade.
 
 [← Previous Lecture](week8.md) · [Next Lecture →](week10.md)

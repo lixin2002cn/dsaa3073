@@ -1,20 +1,24 @@
-# Lecture 5: Regularization
+# Lecture 5: Agnostic Learning and Complexity
 
-**Part 3 · Classical Methods**
+**Part 2 · PAC Learning Framework**
 
 **Lecture:** Monday, October 12, 2026
 
 ## Topics
 
-- Bias–variance decomposition
-- Ill-posed problems and Tikhonov regularization
-- Ridge regression and spectral shrinkage
+- Agnostic PAC learning and uniform convergence
+- Fundamental theorem of statistical learning
+- Rademacher complexity, ghost samples, and symmetrization
+- Structural risk minimization
 
 ## Materials
 
-- [📄 Lecture 5 Learning Sheet](../pdfs/learning-sheets/Week5_Learning_Sheet.pdf)
-- [📝 Lecture 5 Validation Sheet](../pdfs/validation-sheets/Week5_Validation_Sheet.pdf)
-- [📋 Lecture 5 Cheatsheet](../pdfs/cheatsheets/Week5_Cheatsheet.pdf)
-- 🧪 Part 2 Test — 120 marks, 30 minutes, 14% of the course grade
+- [📄 Learning Sheet](../pdfs/learning-sheets/Week4_Learning_Sheet.pdf)
+- [📝 Validation Sheet](../pdfs/validation-sheets/Week4_Validation_Sheet.pdf)
+- [📋 Cheatsheet](../pdfs/cheatsheets/Week4_Cheatsheet.pdf)
+
+!!! note "Next class: Part 2 Test"
+    The Part 2 Test covers Lectures 3–5, is worth 120 marks, and lasts 30 minutes.
+    It contributes 14% of the course grade.
 
 [← Previous Lecture](week4.md) · [Next Lecture →](week6.md)

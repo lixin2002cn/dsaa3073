@@ -1,19 +1,24 @@
-# Lecture 11: Student Presentations I
+# Lecture 11: Online Convex Optimization
+
+**Part 5 · Online Learning**
 
 **Lecture:** Monday, November 23, 2026
 
-## Presentation Session
+## Topics
 
-- Presentation basis: approved individual [Assignment or Programming Project](../index.md#assignment)
-- Presentation topic: selected from the approved project
-- Presentation order: **TBD**
-- Presentation brief and rubric: **TBD**
+- Online convex optimization and projection
+- Online gradient descent
+- FTL, FTRL, curvature, and lower bounds
+- Online-to-batch conversion
 
 ## Materials
 
-- 📝 Lecture 11 Validation Sheet — **TBD**
-- 🧪 Part 5 Test — 120 marks, 30 minutes, 14% of the course grade
+- [📄 Learning Sheet](../pdfs/learning-sheets/Week10_Learning_Sheet.pdf)
+- [📝 Validation Sheet](../pdfs/validation-sheets/Week10_Validation_Sheet.pdf)
+- [📋 Cheatsheet](../pdfs/cheatsheets/Week10_Cheatsheet.pdf)
 
-The Part 5 Test is held before the Lecture 11 presentation activities.
+!!! note "Next class: Part 5 Test"
+    The Part 5 Test covers Lectures 10–11, is worth 120 marks, and lasts 30 minutes.
+    It contributes 14% of the course grade.
 
 [← Previous Lecture](week10.md) · [Next Lecture →](week12.md)

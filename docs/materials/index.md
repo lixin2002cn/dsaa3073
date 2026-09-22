@@ -1,12 +1,12 @@
 # Lecture Materials
 
-The course contains ten content lectures and three student-presentation sessions.
+The course contains eleven content lectures and two student-presentation sessions.
 
 For each lecture, this section provides or reserves a place for:
 
 - the Learning Sheet or presentation brief;
 - a Validation Sheet and released solutions;
-- a Cheatsheet for each content lecture in Lectures 1–10;
+- a Cheatsheet for each content lecture in Lectures 1–11;
 - Tutorial notes and worked discussions;
 - the relevant Part Test when scheduled.
 
@@ -18,22 +18,23 @@ For each lecture, this section provides or reserves a place for:
 ## Part 2 · PAC Learning Framework
 
 - [Lecture 3: PAC Learning and VC Dimension](week3.md)
-- [Lecture 4: Agnostic Learning and Complexity](week4.md)
+- [Lecture 4: PAC Learning and VC Dimension](week4.md)
+- [Lecture 5: Agnostic Learning and Complexity](week5.md)
 
 ## Part 3 · Classical Methods
 
-- [Lecture 5: Regularization](week5.md)
-- [Lecture 6: Model Selection](week6.md)
+- [Lecture 6: Regularization](week6.md)
+- [Lecture 7: Model Selection](week7.md)
 
 ## Part 4 · Ensemble Learning
 
-- [Lecture 7: AdaBoost](week7.md)
-- [Lecture 8: Margins and Loss Minimization](week8.md)
+- [Lecture 8: AdaBoost](week8.md)
+- [Lecture 9: Margins and Loss Minimization](week9.md)
 
 ## Part 5 · Online Learning
 
-- [Lecture 9: Expert Advice and MWU](week9.md)
-- [Lecture 10: Online Convex Optimization](week10.md)
+- [Lecture 10: Expert Advice and MWU](week10.md)
+- [Lecture 11: Online Convex Optimization](week11.md)
 
 ## Validation Sheets and Solutions
 
@@ -55,6 +56,5 @@ sheets for other lectures are available on their individual lecture pages.
 The presentations are based on each student's approved individual
 [Assignment or Programming Project](../index.md#assignment).
 
-- [Lecture 11: Student Presentations I](week11.md)
-- [Lecture 12: Student Presentations II](week12.md)
-- [Lecture 13: Student Presentations III](week13.md)
+- [Lecture 12: Student Presentations I](week12.md)
+- [Lecture 13: Student Presentations II](week13.md)

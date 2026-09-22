@@ -1,4 +1,4 @@
-# Lecture 13: Student Presentations III
+# Lecture 13: Student Presentations II
 
 **Lecture:** Monday, December 7, 2026
 
