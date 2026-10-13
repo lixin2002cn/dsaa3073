@@ -13,9 +13,9 @@
 
 ## Materials
 
-- [📄 Learning Sheet](../pdfs/learning-sheets/Week10_Learning_Sheet.pdf)
-- [📝 Validation Sheet](../pdfs/validation-sheets/Week10_Validation_Sheet.pdf)
-- [📋 Cheatsheet](../pdfs/cheatsheets/Week10_Cheatsheet.pdf)
+- [📄 Learning Sheet](../pdfs/learning-sheets/Lecture11_Learning_Sheet.pdf)
+- [📝 Validation Sheet](../pdfs/validation-sheets/Lecture11_Validation_Sheet.pdf)
+- [📋 Cheatsheet](../pdfs/cheatsheets/Lecture11_Cheatsheet.pdf)
 
 !!! note "Next class: Part 5 Test"
     The Part 5 Test covers Lectures 10–11, is worth 120 marks, and lasts 30 minutes.

@@ -12,8 +12,9 @@
 
 ## Materials
 
-- [📄 Learning Sheet](../pdfs/learning-sheets/Week3_Learning_Sheet.pdf)
-- [📝 Validation Sheet](../pdfs/validation-sheets/Week3_Validation_Sheet.pdf)
-- [📋 Cheatsheet](../pdfs/cheatsheets/Week3_Cheatsheet.pdf)
+- [📄 Learning Sheet](../pdfs/learning-sheets/Lecture4_Learning_Sheet.pdf)
+- [📝 Lecture 4 Validation — Questions](../pdfs/validation-sheets/Lecture4_Validation_Sheet.pdf)
+- [📖 Lecture 4 Validation — With Solutions](../pdfs/validation-sheets/Lecture4_Validation_Solutions.pdf)
+- [📋 Cheatsheet](../pdfs/cheatsheets/Lecture4_Cheatsheet.pdf)
 
 [← Previous Lecture](week3.md) · [Next Lecture →](week5.md)

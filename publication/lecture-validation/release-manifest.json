@@ -1,0 +1,167 @@
+{
+  "issue": "TH-023",
+  "date": "2026-10-13",
+  "approval": "Course owner explicitly requested uploading Lecture 3, 4, 5 Validation solutions and Week-to-Lecture download names, with existing online files authoritative.",
+  "baseline_source_commit": "4a8e7e663fc50bcd7a39ac56a6743367387747ec",
+  "baseline_pages_commit": "5f596b59476fa567ff6f922cc5d6bea8ffa1c0a5",
+  "existing_live_pdfs": 35,
+  "policy": "Existing PDF content is unchanged; Lecture filenames follow the published schedule; Week URLs remain compatibility aliases. Printed PDF headers are preserved.",
+  "filename_mapping": [
+    {
+      "baseline": "pdfs/validation-sheets/Week7_Validation_Sheet.pdf",
+      "published": "pdfs/validation-sheets/Lecture8_Validation_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/validation-sheets/Week2_Validation_Sheet.pdf",
+      "published": "pdfs/validation-sheets/Lecture2_Validation_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/validation-sheets/Week8_Validation_Sheet.pdf",
+      "published": "pdfs/validation-sheets/Lecture9_Validation_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/validation-sheets/Week2_Validation_Solutions.pdf",
+      "published": "pdfs/validation-sheets/Lecture2_Validation_Solutions.pdf"
+    },
+    {
+      "baseline": "pdfs/validation-sheets/Week9_Validation_Sheet.pdf",
+      "published": "pdfs/validation-sheets/Lecture10_Validation_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/validation-sheets/Week6_Validation_Sheet.pdf",
+      "published": "pdfs/validation-sheets/Lecture7_Validation_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/validation-sheets/Week3_Validation_Sheet.pdf",
+      "published": "pdfs/validation-sheets/Lecture3_Validation_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/validation-sheets/Week3_Validation_Sheet.pdf",
+      "published": "pdfs/validation-sheets/Lecture4_Validation_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/validation-sheets/Week5_Validation_Sheet.pdf",
+      "published": "pdfs/validation-sheets/Lecture6_Validation_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/validation-sheets/Week10_Validation_Sheet.pdf",
+      "published": "pdfs/validation-sheets/Lecture11_Validation_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/validation-sheets/Week1_Validation_Sheet.pdf",
+      "published": "pdfs/validation-sheets/Lecture1_Validation_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/validation-sheets/Week4_Validation_Sheet.pdf",
+      "published": "pdfs/validation-sheets/Lecture5_Validation_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/validation-sheets/Week1_Validation_Solutions.pdf",
+      "published": "pdfs/validation-sheets/Lecture1_Validation_Solutions.pdf"
+    },
+    {
+      "baseline": "pdfs/cheatsheets/Week4_Cheatsheet.pdf",
+      "published": "pdfs/cheatsheets/Lecture5_Cheatsheet.pdf"
+    },
+    {
+      "baseline": "pdfs/cheatsheets/Week3_Cheatsheet.pdf",
+      "published": "pdfs/cheatsheets/Lecture3_Cheatsheet.pdf"
+    },
+    {
+      "baseline": "pdfs/cheatsheets/Week3_Cheatsheet.pdf",
+      "published": "pdfs/cheatsheets/Lecture4_Cheatsheet.pdf"
+    },
+    {
+      "baseline": "pdfs/cheatsheets/Week2_Cheatsheet.pdf",
+      "published": "pdfs/cheatsheets/Lecture2_Cheatsheet.pdf"
+    },
+    {
+      "baseline": "pdfs/cheatsheets/Week5_Cheatsheet.pdf",
+      "published": "pdfs/cheatsheets/Lecture6_Cheatsheet.pdf"
+    },
+    {
+      "baseline": "pdfs/cheatsheets/Week7_Cheatsheet.pdf",
+      "published": "pdfs/cheatsheets/Lecture8_Cheatsheet.pdf"
+    },
+    {
+      "baseline": "pdfs/cheatsheets/Week8_Cheatsheet.pdf",
+      "published": "pdfs/cheatsheets/Lecture9_Cheatsheet.pdf"
+    },
+    {
+      "baseline": "pdfs/cheatsheets/Week1_Cheatsheet.pdf",
+      "published": "pdfs/cheatsheets/Lecture1_Cheatsheet.pdf"
+    },
+    {
+      "baseline": "pdfs/cheatsheets/Week9_Cheatsheet.pdf",
+      "published": "pdfs/cheatsheets/Lecture10_Cheatsheet.pdf"
+    },
+    {
+      "baseline": "pdfs/cheatsheets/Week6_Cheatsheet.pdf",
+      "published": "pdfs/cheatsheets/Lecture7_Cheatsheet.pdf"
+    },
+    {
+      "baseline": "pdfs/cheatsheets/Week10_Cheatsheet.pdf",
+      "published": "pdfs/cheatsheets/Lecture11_Cheatsheet.pdf"
+    },
+    {
+      "baseline": "pdfs/learning-sheets/Week1_Learning_Sheet.pdf",
+      "published": "pdfs/learning-sheets/Lecture1_Learning_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/learning-sheets/Week2_Learning_Sheet.pdf",
+      "published": "pdfs/learning-sheets/Lecture2_Learning_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/learning-sheets/Week4_Learning_Sheet.pdf",
+      "published": "pdfs/learning-sheets/Lecture5_Learning_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/learning-sheets/Week9_Learning_Sheet.pdf",
+      "published": "pdfs/learning-sheets/Lecture10_Learning_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/learning-sheets/Week7_Learning_Sheet.pdf",
+      "published": "pdfs/learning-sheets/Lecture8_Learning_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/learning-sheets/Week6_Learning_Sheet.pdf",
+      "published": "pdfs/learning-sheets/Lecture7_Learning_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/learning-sheets/Week5_Learning_Sheet.pdf",
+      "published": "pdfs/learning-sheets/Lecture6_Learning_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/learning-sheets/Week8_Learning_Sheet.pdf",
+      "published": "pdfs/learning-sheets/Lecture9_Learning_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/learning-sheets/Week10_Learning_Sheet.pdf",
+      "published": "pdfs/learning-sheets/Lecture11_Learning_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/learning-sheets/Week3_Learning_Sheet.pdf",
+      "published": "pdfs/learning-sheets/Lecture3_Learning_Sheet.pdf"
+    },
+    {
+      "baseline": "pdfs/learning-sheets/Week3_Learning_Sheet.pdf",
+      "published": "pdfs/learning-sheets/Lecture4_Learning_Sheet.pdf"
+    }
+  ],
+  "solution_sources": [
+    {
+      "lectures": [
+        3,
+        4
+      ],
+      "harness_path": "build/th013/chapter-02-downstream/review-fresh-2/week3-validation-solutions.pdf"
+    },
+    {
+      "lectures": [
+        5
+      ],
+      "harness_path": "build/th013/verify-week4-validation/fresh/validation-solutions.pdf"
+    }
+  ],
+  "scope": "Publication only; no curriculum or assessment content revision."
+}

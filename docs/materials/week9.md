@@ -12,9 +12,9 @@
 
 ## Materials
 
-- [📄 Learning Sheet](../pdfs/learning-sheets/Week8_Learning_Sheet.pdf)
-- [📝 Validation Sheet](../pdfs/validation-sheets/Week8_Validation_Sheet.pdf)
-- [📋 Cheatsheet](../pdfs/cheatsheets/Week8_Cheatsheet.pdf)
+- [📄 Learning Sheet](../pdfs/learning-sheets/Lecture9_Learning_Sheet.pdf)
+- [📝 Validation Sheet](../pdfs/validation-sheets/Lecture9_Validation_Sheet.pdf)
+- [📋 Cheatsheet](../pdfs/cheatsheets/Lecture9_Cheatsheet.pdf)
 
 !!! note "Next class: Part 4 Test"
     The Part 4 Test covers Lectures 8–9, is worth 120 marks, and lasts 30 minutes.

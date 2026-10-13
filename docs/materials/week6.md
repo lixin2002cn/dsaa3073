@@ -12,9 +12,9 @@
 
 ## Materials
 
-- [📄 Learning Sheet](../pdfs/learning-sheets/Week5_Learning_Sheet.pdf)
-- [📝 Validation Sheet](../pdfs/validation-sheets/Week5_Validation_Sheet.pdf)
-- [📋 Cheatsheet](../pdfs/cheatsheets/Week5_Cheatsheet.pdf)
+- [📄 Learning Sheet](../pdfs/learning-sheets/Lecture6_Learning_Sheet.pdf)
+- [📝 Validation Sheet](../pdfs/validation-sheets/Lecture6_Validation_Sheet.pdf)
+- [📋 Cheatsheet](../pdfs/cheatsheets/Lecture6_Cheatsheet.pdf)
 - 🧪 Part 2 Test — 120 marks, 30 minutes, 14% of the course grade
 
 [← Previous Lecture](week5.md) · [Next Lecture →](week7.md)

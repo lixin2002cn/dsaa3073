@@ -13,9 +13,10 @@
 
 ## Materials
 
-- [📄 Learning Sheet](../pdfs/learning-sheets/Week4_Learning_Sheet.pdf)
-- [📝 Validation Sheet](../pdfs/validation-sheets/Week4_Validation_Sheet.pdf)
-- [📋 Cheatsheet](../pdfs/cheatsheets/Week4_Cheatsheet.pdf)
+- [📄 Learning Sheet](../pdfs/learning-sheets/Lecture5_Learning_Sheet.pdf)
+- [📝 Lecture 5 Validation — Questions](../pdfs/validation-sheets/Lecture5_Validation_Sheet.pdf)
+- [📖 Lecture 5 Validation — With Solutions](../pdfs/validation-sheets/Lecture5_Validation_Solutions.pdf)
+- [📋 Cheatsheet](../pdfs/cheatsheets/Lecture5_Cheatsheet.pdf)
 
 !!! note "Next class: Part 2 Test"
     The Part 2 Test covers Lectures 3–5, is worth 120 marks, and lasts 30 minutes.

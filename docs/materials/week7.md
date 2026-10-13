@@ -12,9 +12,9 @@
 
 ## Materials
 
-- [📄 Learning Sheet](../pdfs/learning-sheets/Week6_Learning_Sheet.pdf)
-- [📝 Validation Sheet](../pdfs/validation-sheets/Week6_Validation_Sheet.pdf)
-- [📋 Cheatsheet](../pdfs/cheatsheets/Week6_Cheatsheet.pdf)
+- [📄 Learning Sheet](../pdfs/learning-sheets/Lecture7_Learning_Sheet.pdf)
+- [📝 Validation Sheet](../pdfs/validation-sheets/Lecture7_Validation_Sheet.pdf)
+- [📋 Cheatsheet](../pdfs/cheatsheets/Lecture7_Cheatsheet.pdf)
 
 !!! note "Next class: Part 3 Test"
     The Part 3 Test covers Lectures 6–7, is worth 120 marks, and lasts 30 minutes.
