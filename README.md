@@ -35,10 +35,11 @@ tracked. Edit the Markdown files in `docs/`, not generated HTML.
   Test is 120 marks, contains 4 multiple-choice questions and 6 short-answer
   questions, lasts 30 minutes, and is held in the class following completion
   of its Part.
-- Lectures 12-13 are reserved for student presentations and contribute 30% of the
-  course grade. Each presentation is based on an individually completed,
-  instructor-approved written assignment or programming project; the detailed
-  rubric and student order are TBD.
+- Lectures 12-13 are reserved for individual Market Lab project presentations
+  and contribute 30% of the course grade. The [project website](https://lixin2002cn.github.io/3073-Project/)
+  provides the requirements and rubric; the [course starter](https://github.com/lixin2002cn/3073-StockBench)
+  provides code, cached data, and an offline baseline. Presentation order is
+  published on Canvas.
 
 Lectures 1-11 use the ten existing topic-based material sets. Lectures 3 and 4
 share the Week 3 files; Lectures 5-11 use the Week 4-10 files respectively.

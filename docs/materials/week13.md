@@ -4,10 +4,10 @@
 
 ## Presentation Session
 
-- Presentation basis: approved individual [Assignment or Programming Project](../index.md#assignment)
-- Presentation topic: selected from the approved project
-- Presentation order: **TBD**
-- Presentation brief and rubric: **TBD**
+- Presentation basis: individual [Market Lab project](../index.md#assignment)
+- Presentation format: 20-minute talk + 5-minute discussion per student
+- Presentation order: published on Canvas
+- Presentation brief and rubric: [Project Requirements & Rubric](https://lixin2002cn.github.io/3073-Project/requirements.html)
 
 ## Materials
 

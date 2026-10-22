@@ -77,8 +77,8 @@ Tests are equally weighted at 14% each.
 
 Weekly Validation Sheets are provided for checking understanding and do not
 contribute to the course grade unless announced otherwise. Student
-presentations take place in Lectures 12–13 and are based on an individually
-completed, instructor-approved [assignment or programming project](#assignment).
+presentations take place in Lectures 12–13 and are based on the individual
+[Market Lab project](#assignment).
 
 ??? info "Grading thresholds"
 
@@ -95,28 +95,25 @@ completed, instructor-approved [assignment or programming project](#assignment).
 
 ## Assignment
 
-You are free to choose a written assignment or a programming project for this
-course. The assignment/project should be closely related to the topics covered
-in the course. You **must** obtain approval from the instructor before starting
-your work. The assignment/project should be completed individually, and you are
-expected to submit your work by the middle of the examination period of this
-semester.
+Apply ideas from 3073 to simulated trading in the **Market Lab** individual
+project. Your approach is open: traditional methods, LLMs, agents, and
+combinations are all welcome. Vibe coding is allowed.
 
-Your student presentation in Lectures 12–13 will be based on this approved
-assignment or programming project. Together, the project work and its
-presentation contribute **30%** of the course grade.
+- [Project website and finance guide](https://lixin2002cn.github.io/3073-Project/)
+- [Project Requirements & Rubric](https://lixin2002cn.github.io/3073-Project/requirements.html)
+- [Course starter code & data](https://github.com/lixin2002cn/3073-StockBench)
+  · [Quick start](https://github.com/lixin2002cn/3073-StockBench/blob/main/STUDENT_QUICKSTART.md)
 
-Some ideas for the assignment/project include:
+The starter includes cached StockBench data and a baseline that runs offline
+without an API key or training. Submit an English LaTeX technical report
+(main text at most **8 pages**) and presentation slides on **Canvas by
+27 November 2026, 23:59 (UTC+8)**. Use `NAME-STUDENTID` for file names.
 
-- Implementing a specific algorithm or data structure discussed in the course,
-  then analyzing its performance and possible improvements.
-- Conducting a small research project on a topic related to the course, such as
-  exploring a new problem from a theoretical aspect (for example, a model or a
-  hypothesis).
-- Possible topics:
-    - Investigate how an LLM generalizes in the OOD case.
-    - Explore alternative theoretical models to explain the generalization and
-      PEFT of foundation models.
-    - Explore Grokking and its theoretical foundations.
+Each student gives a **20-minute presentation**, followed by **5 minutes of
+discussion**, in Lectures 12–13. The order will be published on Canvas.
+The project and presentation together contribute **30%** of the course grade.
+**Profit and loss amounts do not affect your grade.** We assess your use of
+course ideas, technical depth, evidence, organization, visualization, and
+communication; see the linked rubric for details.
 
-*Last updated: October 13, 2026*
+*Last updated: October 22, 2026*

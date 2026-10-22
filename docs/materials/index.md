@@ -56,8 +56,8 @@ sheets for other lectures are available on their individual lecture pages.
 
 ## Student Presentations
 
-The presentations are based on each student's approved individual
-[Assignment or Programming Project](../index.md#assignment).
+The presentations are based on each student's individual
+[Market Lab project](../index.md#assignment).
 
 - [Lecture 12: Student Presentations I](week12.md)
 - [Lecture 13: Student Presentations II](week13.md)
