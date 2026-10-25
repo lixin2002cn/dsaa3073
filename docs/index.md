@@ -109,6 +109,13 @@ without an API key or training. Submit an English LaTeX technical report
 (main text at most **8 pages**) and presentation slides on **Canvas by
 27 November 2026, 23:59 (UTC+8)**. Use `NAME-STUDENTID` for file names.
 
+Use **March–April 2025 for training/development (42 trading days), May for
+validation (21 days), and June for testing (20 days)**. Keep the dates in
+time order. Online learning may use feedback already available, following
+an update rule chosen before testing. The starter defaults to the development
+period; use `--split validation` or `--split test` for the later periods.
+[Full date and information rules](https://lixin2002cn.github.io/3073-Project/requirements.html#data-split).
+
 Each student gives a **20-minute presentation**, followed by **5 minutes of
 discussion**, in Lectures 12–13. The order will be published on Canvas.
 The project and presentation together contribute **30%** of the course grade.
@@ -116,4 +123,4 @@ The project and presentation together contribute **30%** of the course grade.
 course ideas, technical depth, evidence, organization, visualization, and
 communication; see the linked rubric for details.
 
-*Last updated: October 22, 2026*
+*Last updated: October 25, 2026*
