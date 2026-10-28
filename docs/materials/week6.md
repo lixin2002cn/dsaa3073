@@ -13,7 +13,8 @@
 ## Materials
 
 - [📄 Learning Sheet](../pdfs/learning-sheets/Lecture6_Learning_Sheet.pdf)
-- [📝 Validation Sheet](../pdfs/validation-sheets/Lecture6_Validation_Sheet.pdf)
+- [📝 Lecture 6 Validation — Questions](../pdfs/validation-sheets/Lecture6_Validation_Sheet.pdf)
+- [📖 Lecture 6 Validation — With Solutions](../pdfs/validation-sheets/Lecture6_Validation_Solutions.pdf)
 - [📋 Cheatsheet](../pdfs/cheatsheets/Lecture6_Cheatsheet.pdf)
 - 🧪 Part 2 Test — 120 marks, 30 minutes, 14% of the course grade
 

@@ -13,7 +13,8 @@
 ## Materials
 
 - [📄 Learning Sheet](../pdfs/learning-sheets/Lecture7_Learning_Sheet.pdf)
-- [📝 Validation Sheet](../pdfs/validation-sheets/Lecture7_Validation_Sheet.pdf)
+- [📝 Lecture 7 Validation — Questions](../pdfs/validation-sheets/Lecture7_Validation_Sheet.pdf)
+- [📖 Lecture 7 Validation — With Solutions](../pdfs/validation-sheets/Lecture7_Validation_Solutions.pdf)
 - [📋 Cheatsheet](../pdfs/cheatsheets/Lecture7_Cheatsheet.pdf)
 
 !!! note "Next class: Part 3 Test"
