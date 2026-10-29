@@ -1,0 +1,52 @@
+{
+  "release_id": "dsaa3073-fall2026-learning-sheets-r1",
+  "harness_version": "0.3.0",
+  "date": "2026-10-29",
+  "approval": "Course owner requested publication of the current reviewed Lecture 7\u201311 Learning Sheets and assignment TBD.",
+  "learning_sheets": [
+    {
+      "lecture": 7,
+      "path": "docs/pdfs/learning-sheets/Lecture7_Learning_Sheet.pdf",
+      "body_pages": 19,
+      "total_pages": 20,
+      "source_revision": "draft8/original-route-composition1/figure1/notation1"
+    },
+    {
+      "lecture": 8,
+      "path": "docs/pdfs/learning-sheets/Lecture8_Learning_Sheet.pdf",
+      "body_pages": 18,
+      "total_pages": 19,
+      "source_revision": "draft4/original-route-composition1/figure1/notation1"
+    },
+    {
+      "lecture": 9,
+      "path": "docs/pdfs/learning-sheets/Lecture9_Learning_Sheet.pdf",
+      "body_pages": 18,
+      "total_pages": 19,
+      "source_revision": "draft3/original-route-composition1/notation1"
+    },
+    {
+      "lecture": 10,
+      "path": "docs/pdfs/learning-sheets/Lecture10_Learning_Sheet.pdf",
+      "body_pages": 20,
+      "total_pages": 21,
+      "source_revision": "draft2/original-route-composition1/figure-example1"
+    },
+    {
+      "lecture": 11,
+      "path": "docs/pdfs/learning-sheets/Lecture11_Learning_Sheet.pdf",
+      "body_pages": 21,
+      "total_pages": 22,
+      "source_revision": "draft2/original-route-composition1"
+    }
+  ],
+  "assignment_status": "TBD",
+  "preserved": "Other PDFs, lecture dates and grading weights.",
+  "checks": {
+    "strict_build": "PASS",
+    "internal_file_links": 648,
+    "pdf_identity": "Exact reviewed student exports",
+    "independent_source_reviews": "Full original-Harness reviews plus bounded figure and notation closures; all 25 current skill gates PASS.",
+    "independent_publication_review": "PASS"
+  }
+}

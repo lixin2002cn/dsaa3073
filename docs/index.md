@@ -77,8 +77,8 @@ Tests are equally weighted at 14% each.
 
 Weekly Validation Sheets are provided for checking understanding and do not
 contribute to the course grade unless announced otherwise. Student
-presentations take place in Lectures 12–13 and are based on the individual
-[Market Lab project](#assignment).
+presentations take place in Lectures 12–13. Assignment details are
+[**TBD**](#assignment).
 
 ??? info "Grading thresholds"
 
@@ -95,32 +95,6 @@ presentations take place in Lectures 12–13 and are based on the individual
 
 ## Assignment
 
-Apply ideas from 3073 to simulated trading in the **Market Lab** individual
-project. Your approach is open: traditional methods, LLMs, agents, and
-combinations are all welcome. Vibe coding is allowed.
+**TBD.** Assignment details and requirements will be announced later.
 
-- [Project website and finance guide](https://lixin2002cn.github.io/3073-Project/)
-- [Project Requirements & Rubric](https://lixin2002cn.github.io/3073-Project/requirements.html)
-- [Course starter code & data](https://github.com/lixin2002cn/3073-StockBench)
-  · [Quick start](https://github.com/lixin2002cn/3073-StockBench/blob/main/STUDENT_QUICKSTART.md)
-
-The starter includes cached StockBench data and a baseline that runs offline
-without an API key or training. Submit an English LaTeX technical report
-(main text at most **8 pages**) and presentation slides on **Canvas by
-27 November 2026, 23:59 (UTC+8)**. Use `NAME-STUDENTID` for file names.
-
-Use **March–April 2025 for training/development (42 trading days), May for
-validation (21 days), and June for testing (20 days)**. Keep the dates in
-time order. Online learning may use feedback already available, following
-an update rule chosen before testing. The starter defaults to the development
-period; use `--split validation` or `--split test` for the later periods.
-[Full date and information rules](https://lixin2002cn.github.io/3073-Project/requirements.html#data-split).
-
-Each student gives a **20-minute presentation**, followed by **5 minutes of
-discussion**, in Lectures 12–13. The order will be published on Canvas.
-The project and presentation together contribute **30%** of the course grade.
-**Profit and loss amounts do not affect your grade.** We assess your use of
-course ideas, technical depth, evidence, organization, visualization, and
-communication; see the linked rubric for details.
-
-*Last updated: October 25, 2026*
+*Last updated: October 29, 2026*

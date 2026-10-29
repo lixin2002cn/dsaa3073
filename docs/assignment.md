@@ -5,4 +5,6 @@ search:
 
 # Assignment
 
-[View assignment on the course Home page](index.md#assignment).
+**TBD.** Assignment details and requirements will be announced later.
+
+[Back to the course Home page](index.md#assignment).
