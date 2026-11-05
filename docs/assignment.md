@@ -5,6 +5,4 @@ search:
 
 # Assignment
 
-**TBD.** Assignment details and requirements will be announced later.
-
-[Back to the course Home page](index.md#assignment).
+See the [Assignment section on the course home page](index.md#assignment) for the report deadline and presentation dates. The full project brief is available in [English](https://lixin2002cn.github.io/3073-Project/) and [中文](https://lixin2002cn.github.io/3073-Project/zh.html).

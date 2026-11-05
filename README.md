@@ -27,7 +27,7 @@ tracked. Edit the Markdown files in `docs/`, not generated HTML.
 
 - Week 1-10 Learning Sheets are included as downloadable PDFs.
 - Week 1-10 Validation Sheets are included as downloadable student PDFs;
-  presentation-session materials for Lectures 12-13 remain placeholders.
+  the presentation schedule for Lectures 12–13 is linked from the course home page.
 - Lecture 1-2 Validation Sheets with solutions are available on Home, the
   Materials overview, and their individual lecture pages.
 - Week 1-10 Cheatsheets are included as downloadable PDFs.
@@ -35,11 +35,9 @@ tracked. Edit the Markdown files in `docs/`, not generated HTML.
   Test is 120 marks, contains 4 multiple-choice questions and 6 short-answer
   questions, lasts 30 minutes, and is held in the class following completion
   of its Part.
-- Lectures 12-13 are reserved for individual Market Lab project presentations
-  and contribute 30% of the course grade. The [project website](https://lixin2002cn.github.io/3073-Project/)
-  provides the requirements and rubric; the [course starter](https://github.com/lixin2002cn/3073-StockBench)
-  provides code, cached data, and an offline baseline. Presentation order is
-  published on Canvas.
+- Lectures 12–13 are reserved for individual project presentations and contribute
+  30% of the course grade. The [weighted voting project website](https://lixin2002cn.github.io/3073-Project/)
+  provides both language versions of the brief, grading criteria, and the presentation order.
 
 Lectures 1-11 use the ten existing topic-based material sets. Lectures 3 and 4
 share the Week 3 files; Lectures 5-11 use the Week 4-10 files respectively.

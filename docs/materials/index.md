@@ -58,7 +58,7 @@ sheets for other lectures are available on their individual lecture pages.
 
 ## Student Presentations
 
-Assignment details and presentation requirements are [**TBD**](../index.md#assignment).
+See the [final project requirements](../index.md#assignment) and [presentation order](https://lixin2002cn.github.io/3073-Project/#presentation-order).
 
 - [Lecture 12: Student Presentations I](week12.md)
 - [Lecture 13: Student Presentations II](week13.md)
