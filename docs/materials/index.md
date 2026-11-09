@@ -50,6 +50,8 @@ sheets for other lectures are available on their individual lecture pages.
 | [Lecture 5](week5.md) | [📝 Questions (PDF)](../pdfs/validation-sheets/Lecture5_Validation_Sheet.pdf) | [📖 Solutions (PDF)](../pdfs/validation-sheets/Lecture5_Validation_Solutions.pdf) |
 | [Lecture 6](week6.md) | [📝 Questions (PDF)](../pdfs/validation-sheets/Lecture6_Validation_Sheet.pdf) | [📖 Solutions (PDF)](../pdfs/validation-sheets/Lecture6_Validation_Solutions.pdf) |
 | [Lecture 7](week7.md) | [📝 Questions (PDF)](../pdfs/validation-sheets/Lecture7_Validation_Sheet.pdf) | [📖 Solutions (PDF)](../pdfs/validation-sheets/Lecture7_Validation_Solutions.pdf) |
+| [Lecture 8](week8.md) | [📝 Questions (PDF)](../pdfs/validation-sheets/Lecture8_Validation_Sheet.pdf) | [📖 Solutions (PDF)](../pdfs/validation-sheets/Lecture8_Validation_Solutions.pdf) |
+| [Lecture 9](week9.md) | [📝 Questions (PDF)](../pdfs/validation-sheets/Lecture9_Validation_Sheet.pdf) | [📖 Solutions (PDF)](../pdfs/validation-sheets/Lecture9_Validation_Solutions.pdf) |
 
 ## Tutorial Notes
 

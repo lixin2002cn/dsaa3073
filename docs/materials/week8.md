@@ -13,7 +13,8 @@
 ## Materials
 
 - [📄 Learning Sheet](../pdfs/learning-sheets/Lecture8_Learning_Sheet.pdf)
-- [📝 Validation Sheet](../pdfs/validation-sheets/Lecture8_Validation_Sheet.pdf)
+- [📝 Lecture 8 Validation — Questions](../pdfs/validation-sheets/Lecture8_Validation_Sheet.pdf)
+- [📖 Lecture 8 Validation — With Solutions](../pdfs/validation-sheets/Lecture8_Validation_Solutions.pdf)
 - [📋 Cheatsheet](../pdfs/cheatsheets/Lecture8_Cheatsheet.pdf)
 - 🧪 Part 3 Test — 120 marks, 30 minutes, 14% of the course grade
 

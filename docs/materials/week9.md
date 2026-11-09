@@ -13,7 +13,8 @@
 ## Materials
 
 - [📄 Learning Sheet](../pdfs/learning-sheets/Lecture9_Learning_Sheet.pdf)
-- [📝 Validation Sheet](../pdfs/validation-sheets/Lecture9_Validation_Sheet.pdf)
+- [📝 Lecture 9 Validation — Questions](../pdfs/validation-sheets/Lecture9_Validation_Sheet.pdf)
+- [📖 Lecture 9 Validation — With Solutions](../pdfs/validation-sheets/Lecture9_Validation_Solutions.pdf)
 - [📋 Cheatsheet](../pdfs/cheatsheets/Lecture9_Cheatsheet.pdf)
 
 !!! note "Next class: Part 4 Test"
