@@ -58,8 +58,8 @@ not yet been released are shown as **TBD**.
 | **[Lecture 9](materials/week9.md)** | Nov 9 | Part 4 | Margins, exponential loss, coordinate descent | [📄 PDF](pdfs/learning-sheets/Lecture9_Learning_Sheet.pdf)<br>[overview](overviews/Lecture9_overview.html) | [📝 Questions](pdfs/validation-sheets/Lecture9_Validation_Sheet.pdf)<br>[📖 Solutions](pdfs/validation-sheets/Lecture9_Validation_Solutions.pdf) | [📋 PDF](pdfs/cheatsheets/Lecture9_Cheatsheet.pdf) |
 | **[Lecture 10](materials/week10.md)** | Nov 16<br>🧪 **Part 4 Test** | Part 5 | Expert advice, Weighted Majority, MWU | [📄 PDF](pdfs/learning-sheets/Lecture10_Learning_Sheet.pdf)<br>[overview](overviews/lecture10/index.html) | [📝 Questions](pdfs/validation-sheets/Lecture10_Validation_Sheet.pdf) | [📋 PDF](pdfs/cheatsheets/Lecture10_Cheatsheet.pdf) |
 | **[Lecture 11](materials/week11.md)** | Nov 23 | Part 5 | OCO, OGD, FTL, FTRL, online-to-batch | [📄 PDF](pdfs/learning-sheets/Lecture11_Learning_Sheet.pdf) | [📝 Questions](pdfs/validation-sheets/Lecture11_Validation_Sheet.pdf) | [📋 PDF](pdfs/cheatsheets/Lecture11_Cheatsheet.pdf) |
-| **[Lecture 12](materials/week12.md)** | Nov 30<br>🧪 **Part 5 Test** | Presentations | Weighted voting project: presentations 1–4 | [Project brief](https://lixin2002cn.github.io/3073-Project/) | TBD | — |
-| **[Lecture 13](materials/week13.md)** | Dec 7 | Presentations | Weighted voting project: presentations 5–8 | [Project brief](https://lixin2002cn.github.io/3073-Project/) | TBD | — |
+| **[Lecture 12](materials/week12.md)** | Nov 30<br>🧪 **Part 5 Test** | Presentations | Weighted voting project: Groups 1–2 | [Project brief](https://lixin2002cn.github.io/3073-Project/) | TBD | — |
+| **[Lecture 13](materials/week13.md)** | Dec 7 | Presentations | Weighted voting project: Groups 3–4 | [Project brief](https://lixin2002cn.github.io/3073-Project/) | TBD | — |
 
 </div>
 
@@ -98,8 +98,8 @@ presentations take place in Lectures 12–13. See the [final project requirement
 
 Compare a weighted vote with the best single model. In three questions, you will bound the vote’s classification error, compare that bound with one based on exponential risk, and study when voting can reduce errors.
 
-- **Report due Friday, November 27, 2026.** Use the IEEE two-column conference format. The main text may be up to **6 pages**, including figures and tables. References and appendices are counted separately. [Overleaf template](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn)
-- **Presentations:** Four students present on November 30 and four on December 7. Each student has **20 minutes to present and 10 minutes for discussion**. [Presentation order](https://lixin2002cn.github.io/3073-Project/#presentation-order)
+- **Individual report due Friday, November 20, 2026.** Submit your report to Canvas. Use the IEEE two-column conference format. The main text may be up to **6 pages**, including figures and tables. References and appendices are counted separately. [Overleaf template](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn)
+- **Presentations:** Groups 1–2 present on November 30 and Groups 3–4 on December 7. Each group has **30 minutes to present and 20 minutes for discussion**, followed by a 10-minute break and changeover. Groups and presentation order are announced November 21; each group submits one slide deck to Canvas by November 29. [Presentation order](https://lixin2002cn.github.io/3073-Project/#presentation-order)
 - **Grading:** We consider your report, talk, and discussion together. Explain why your conclusions hold and what you learned from each attempt. [Grading criteria](https://lixin2002cn.github.io/3073-Project/#grading)
 
 [Read the full project brief in English](https://lixin2002cn.github.io/3073-Project/) · [中文题面](https://lixin2002cn.github.io/3073-Project/zh.html)
