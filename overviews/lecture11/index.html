@@ -755,8 +755,8 @@ body #contents #toc-notes{display:flex}
 @media print{#toc-reopen{display:none!important}}
 
 .round-flow{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:18px 0 24px;font:600 .82rem/1.45 "Avenir Next","Segoe UI",sans-serif}
-.round-flow span{padding:9px 12px;border:1px solid var(--line);border-radius:5px;background:var(--green-soft)}
-.round-flow span+span:before{content:"→ ";color:var(--green)}
+.round-flow > span{padding:9px 12px;border:1px solid var(--line);border-radius:5px;background:var(--green-soft)}
+.round-flow > span+span:before{content:"→ ";color:var(--green)}
 .demo-caption{font-size:.88rem;color:var(--muted)}
 .demo .readout{padding:12px 14px;border-left:3px solid var(--green);background:var(--surface);font-size:.94rem;line-height:1.6}
 .demo .controls{align-items:flex-end}
@@ -767,7 +767,7 @@ body #contents #toc-notes{display:flex}
 .demo table td{font-variant-numeric:tabular-nums}
 .study-main dt{font-weight:700;color:var(--green);margin-top:12px}
 .study-main dd{margin-left:0;margin-bottom:10px}
-@media(max-width:700px){.round-flow{font-size:.74rem}.round-flow span{padding:7px 9px}.demo .controls label{flex-basis:100%}.demo .readout{font-size:.9rem}}
+@media(max-width:700px){.round-flow{font-size:.74rem}.round-flow > span{padding:7px 9px}.demo .controls label{flex-basis:100%}.demo .readout{font-size:.9rem}}
 </style>
 </head>
 <body>
